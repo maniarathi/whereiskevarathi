@@ -3,6 +3,58 @@ layout: post
 title: "Mangystau: Salt, Water and Oil"
 date: 2024-10-21
 image: "mangystau-salt-water-and-oil/mangystau_trip-015.jpg"
+slideshow_images:
+  - url: assets/img/mangystau-salt-water-and-oil/mangystau_trip-222.jpg
+    alt: Torysh valley. Kevin for size.
+  - url: assets/img/mangystau-salt-water-and-oil/mangystau_trip-194.jpg
+    alt: Sherkala Mountain
+  - url: assets/img/mangystau-salt-water-and-oil/20241002-PA020067.jpg
+    alt: Kok-kala Tract.
+  - url: assets/img/mangystau-salt-water-and-oil/mangystau_trip-208.jpg
+    alt: Kok-kala Tract.
+  - url: assets/img/mangystau-salt-water-and-oil/mangystau_trip-214.jpg
+    alt: Torysh valley.
+  - url: assets/img/mangystau-salt-water-and-oil/mangystau_trip-204.jpg
+    alt: Kok-kala Tract from the top.
+  - url: assets/img/mangystau-salt-water-and-oil/mangystau_trip-221.jpg
+    alt: Torysh valley.
+  - url: assets/img/mangystau-salt-water-and-oil/mangystau_trip-234.jpg
+    alt: 
+slideshow_images_2:
+  - url: assets/img/mangystau-salt-water-and-oil/mangystau_trip-160.jpg
+    alt: 
+  - url: assets/img/mangystau-salt-water-and-oil/mangystau_trip-150.jpg
+    alt: 
+  - url: assets/img/mangystau-salt-water-and-oil/20241003-PA030157.jpg
+    alt: 
+  - url: assets/img/mangystau-salt-water-and-oil/mangystau_trip-142.jpg
+    alt: 
+  - url: assets/img/mangystau-salt-water-and-oil/mangystau_trip-144.jpg
+    alt: 
+  - url: assets/img/mangystau-salt-water-and-oil/mangystau_trip-154.jpg
+    alt: 
+slideshow_images_3:
+  - url: assets/img/mangystau-salt-water-and-oil/20241004_162935.jpg
+    alt: 
+  - url: assets/img/mangystau-salt-water-and-oil/20241004_203050.jpg
+    alt: 
+  - url: assets/img/mangystau-salt-water-and-oil/20241004_154354.jpg
+    alt: 
+  - url: assets/img/mangystau-salt-water-and-oil/20241004_152232.jpg
+    alt: 
+  - url: assets/img/mangystau-salt-water-and-oil/mangystau_trip-088.jpg
+    alt: 
+  - url: assets/img/mangystau-salt-water-and-oil/20241004-PA040221.jpg
+    alt: 
+slideshow_images_4:
+  - url: assets/img/mangystau-salt-water-and-oil/IMG_2176+%281%29.jpeg
+    alt: Kevin and I at sunrise. PC Igor.
+  - url: assets/img/mangystau-salt-water-and-oil/mangystau_trip-057.jpg
+    alt: 
+  - url: assets/img/mangystau-salt-water-and-oil/20241005-PA050264.jpg
+    alt: 
+  - url: assets/img/mangystau-salt-water-and-oil/20241005-PA050261.jpg
+    alt: 
 ---
 
 The owner of the car rental business we used in Almaty said, when she learned of our plans to visit Aktau in Western Kazakhstan, "Aktau is not like Almaty. Be prepared. People are not as friendly." She also warned us that people do not speak as much English in Aktau. After spending over a week in the Aktau and larger Mangystau region, I think only the part about English really stands. Kazakhstan continues to have some of the nicest and most friendly people we've met while traveling, and our five day overlanding trip was magnificent, showing off Kazakhstan's truly striking and dramatic landscapes, unlike places we've been before.
@@ -77,121 +129,7 @@ After lunch, we headed out to the various sites for the day. Most days were pret
 
 I'm not sure if _ironic_ is the word I'm looking for right now, but let's use it; I find it ironic that the reason why Western Kazakhstan is rich with oil is the same reason why its landscape is so alien and _sui generis_. This land used to be covered by oceans (the [Tethys Sea](https://www.britannica.com/place/Tethys-Sea)) millions of years ago. These oceans had microscopic organisms whose remains settled into the ocean floor between layers of sediment. These layers are starkly visible in many of the sites that we visited, either in the strata of towering cliffs or in the onion-like layers of the rock balls in _Torysh_. As the ocean vanished and wind and rain blasted through the area, the sandstone transformed into the stunning monuments that dot the former sea floor. As for the sea creatures' remains, add heat, add pressure and these became hydrocarbons that accumulated in the sandstone, eventually drawn out by the pumpjacks. I can't believe this never clicked before for me, but this process is why oil is considered to be a _fossil_ fuel.
 
-![Torysh valley. Kevin for size.](images/mangystau_trip-222.jpg)
-
-![Torysh valley. Kevin for size.](images/mangystau_trip-222.jpg)
-
-Torysh valley. Kevin for size.
-
-![Sherkala Mountain](images/mangystau_trip-194.jpg)
-
-![Sherkala Mountain](images/mangystau_trip-194.jpg)
-
-Sherkala Mountain
-
-![Kok-kala Tract.](images/20241002-PA020067.jpg)
-
-![Kok-kala Tract.](images/20241002-PA020067.jpg)
-
-Kok-kala Tract.
-
-![Kok-kala Tract.](images/mangystau_trip-208.jpg)
-
-![Kok-kala Tract.](images/mangystau_trip-208.jpg)
-
-Kok-kala Tract.
-
-![Torysh valley.](images/mangystau_trip-214.jpg)
-
-![Torysh valley.](images/mangystau_trip-214.jpg)
-
-Torysh valley.
-
-![Kok-kala Tract from the top.](images/mangystau_trip-204.jpg)
-
-![Kok-kala Tract from the top.](images/mangystau_trip-204.jpg)
-
-Kok-kala Tract from the top.
-
-![mangystau_trip-194.jpg](images/mangystau_trip-194.jpg)
-
-![mangystau_trip-194.jpg](images/mangystau_trip-194.jpg)
-
-![Torysh valley.](images/mangystau_trip-221.jpg)
-
-![Torysh valley.](images/mangystau_trip-221.jpg)
-
-Torysh valley.
-
-![mangystau_trip-204.jpg](images/mangystau_trip-204.jpg)
-
-![mangystau_trip-204.jpg](images/mangystau_trip-204.jpg)
-
-![mangystau_trip-221.jpg](images/mangystau_trip-221.jpg)
-
-![mangystau_trip-221.jpg](images/mangystau_trip-221.jpg)
-
-![mangystau_trip-234.jpg](images/mangystau_trip-234.jpg)
-
-![mangystau_trip-234.jpg](images/mangystau_trip-234.jpg)
-
-![mangystau_trip-214.jpg](images/mangystau_trip-214.jpg)
-
-![mangystau_trip-214.jpg](images/mangystau_trip-214.jpg)
-
-![mangystau_trip-234.jpg](images/mangystau_trip-234.jpg)
-
-![mangystau_trip-234.jpg](images/mangystau_trip-234.jpg)
-
-![mangystau_trip-221.jpg](images/mangystau_trip-221.jpg)
-
-![mangystau_trip-221.jpg](images/mangystau_trip-221.jpg)
-
-![mangystau_trip-204.jpg](images/mangystau_trip-204.jpg)
-
-![mangystau_trip-204.jpg](images/mangystau_trip-204.jpg)
-
-![mangystau_trip-234.jpg](images/mangystau_trip-234.jpg)
-
-![mangystau_trip-234.jpg](images/mangystau_trip-234.jpg)
-
-![20241002-PA020067.jpg](images/20241002-PA020067.jpg)
-
-![20241002-PA020067.jpg](images/20241002-PA020067.jpg)
-
-![Torysh valley. Kevin for size.](images/mangystau_trip-222.jpg)
-
-![Sherkala Mountain](images/mangystau_trip-194.jpg)
-
-![Kok-kala Tract.](images/20241002-PA020067.jpg)
-
-![Kok-kala Tract.](images/mangystau_trip-208.jpg)
-
-![Torysh valley.](images/mangystau_trip-214.jpg)
-
-![Kok-kala Tract from the top.](images/mangystau_trip-204.jpg)
-
-![mangystau_trip-194.jpg](images/mangystau_trip-194.jpg)
-
-![Torysh valley.](images/mangystau_trip-221.jpg)
-
-![mangystau_trip-204.jpg](images/mangystau_trip-204.jpg)
-
-![mangystau_trip-221.jpg](images/mangystau_trip-221.jpg)
-
-![mangystau_trip-234.jpg](images/mangystau_trip-234.jpg)
-
-![mangystau_trip-214.jpg](images/mangystau_trip-214.jpg)
-
-![mangystau_trip-234.jpg](images/mangystau_trip-234.jpg)
-
-![mangystau_trip-221.jpg](images/mangystau_trip-221.jpg)
-
-![mangystau_trip-204.jpg](images/mangystau_trip-204.jpg)
-
-![mangystau_trip-234.jpg](images/mangystau_trip-234.jpg)
-
-![20241002-PA020067.jpg](images/20241002-PA020067.jpg)
+{% include slideshow.html images=page.slideshow_images %}
 
 We ended this evening at the Valley of Castles, setting up our wild camp at the base of the hills. We weren't sure if we were going to end up camping this evening because the weather was variable and if it started to rain, the whole area would turn into a mud pile which is not great for camping but even less great for the cars to drive out of the mud the next day. Thankfully, the weather held and after setting up camp, we had some dinner and went to bed. Apparently that night there were some distant thunderstorms and strong winds but both Kevin and I slept right through!
 
@@ -219,41 +157,7 @@ Dinner with everyone! PC: Igor.
 
 The second day was pretty relaxed. After each breakfast, Aars would gently kick us out of the camp so that they could pack up by saying "you can go for a walk \[points in a random direction\] that way." We got the message so we'd start wandering around in random directions until the cars would honk to signal us to come back. If we were far enough, the cars would drive over to grab us. One thing that was really nice about this tour was that there was plenty of time for self-exploration. Each day wasn't too packed and for each site, we got the freedom to explore the area on our own and go for some short hikes without getting babysat. Our first stop on day 2 at Ybykty Canyon was a good example. We walked together with Aars for a little bit as we peered down the sponge-looking canyon from the top. We then explored the chasm on our own, creating our own musical instrument of sorts by banging on the arachnoid walls. Aars told us that previous tourists likened the canyon patterns to "Italian lingerie." If this is what Italian lingerie looks like, well, uhh, interesting. I've decided not to ruin my Google search history by searching on the internet.
 
-![mangystau_trip-160.jpg](images/mangystau_trip-160.jpg)
-
-![mangystau_trip-160.jpg](images/mangystau_trip-160.jpg)
-
-![mangystau_trip-150.jpg](images/mangystau_trip-150.jpg)
-
-![mangystau_trip-150.jpg](images/mangystau_trip-150.jpg)
-
-![20241003-PA030157.jpg](images/20241003-PA030157.jpg)
-
-![20241003-PA030157.jpg](images/20241003-PA030157.jpg)
-
-![mangystau_trip-142.jpg](images/mangystau_trip-142.jpg)
-
-![mangystau_trip-142.jpg](images/mangystau_trip-142.jpg)
-
-![mangystau_trip-144.jpg](images/mangystau_trip-144.jpg)
-
-![mangystau_trip-144.jpg](images/mangystau_trip-144.jpg)
-
-![mangystau_trip-154.jpg](images/mangystau_trip-154.jpg)
-
-![mangystau_trip-154.jpg](images/mangystau_trip-154.jpg)
-
-![mangystau_trip-160.jpg](images/mangystau_trip-160.jpg)
-
-![mangystau_trip-150.jpg](images/mangystau_trip-150.jpg)
-
-![20241003-PA030157.jpg](images/20241003-PA030157.jpg)
-
-![mangystau_trip-142.jpg](images/mangystau_trip-142.jpg)
-
-![mangystau_trip-144.jpg](images/mangystau_trip-144.jpg)
-
-![mangystau_trip-154.jpg](images/mangystau_trip-154.jpg)
+{% include slideshow.html images=page.slideshow_images_2 %}
 
 We visited an underground mosque and the outside necropolis after this stop. The underground mosque is fairly new, dating back the 12th-13th century but the necropolis dates even earlier to around the 8th century. It was interesting to see the huge mausoleums that were constructed by some of the families. It was almost identical to the cemetery we saw in Recoleta, Bueno Aires (holy macaroni... Buenos Aires! The first city of this year of travel!) except that this was an Islamic cemetery and Recoleta was for Catholics. In both locations, the size and grandeur of the mausoleum indicated the wealth and prosperity of the family for which it was constructed.
 
@@ -307,71 +211,13 @@ A viewpoint of the salt marsh.
 
 This was pretty much the only thing we did this day because of the long drive to get out here. We drove onwards to a place called the Kyzylkup tract, more affectionately known by the Italian tourists as "tiramisu" due to its striped red and white layers (I personally think "candy cane" would be better but I assume Italians know best when it comes to tiramisu!) Why are there so many Italian tourists? I still don't know. By the time we got to Tiramisu it was pretty dark, but we were all expert camp setter-uppers by this point so all the shelters were up in no time. Moono cooked dinner this evening (with help from Fei and Igor) -- a yummy simple Chinese tomato stew with egg that was eaten with bread that soaked up the delicious tomato juice. Dinner was an entertaining affair; I was on the verge of choking up my dinner in laughter with continued discussion about horse milk. Baygazy would say, "Kevin! Kevin! Kevin! Twenty liters horse milk. One liter one day. One month. \[Smacks hands together\]. Little Kevins!\] Baygazy also prescribed horse milk as a way to solve China's population decline to Fei and Moono. Who knew?! HORSE MILK!
 
-![20241004_162935.jpg](images/20241004_162935.jpg)
-
-![20241004_162935.jpg](images/20241004_162935.jpg)
-
-![20241004_203050.jpg](images/20241004_203050.jpg)
-
-![20241004_203050.jpg](images/20241004_203050.jpg)
-
-![20241004_154354.jpg](images/20241004_154354.jpg)
-
-![20241004_154354.jpg](images/20241004_154354.jpg)
-
-![20241004_152232.jpg](images/20241004_152232.jpg)
-
-![20241004_152232.jpg](images/20241004_152232.jpg)
-
-![mangystau_trip-088.jpg](images/mangystau_trip-088.jpg)
-
-![mangystau_trip-088.jpg](images/mangystau_trip-088.jpg)
-
-![20241004-PA040221.jpg](images/20241004-PA040221.jpg)
-
-![20241004-PA040221.jpg](images/20241004-PA040221.jpg)
-
-![20241004_162935.jpg](images/20241004_162935.jpg)
-
-![20241004_203050.jpg](images/20241004_203050.jpg)
-
-![20241004_154354.jpg](images/20241004_154354.jpg)
-
-![20241004_152232.jpg](images/20241004_152232.jpg)
-
-![mangystau_trip-088.jpg](images/mangystau_trip-088.jpg)
-
-![20241004-PA040221.jpg](images/20241004-PA040221.jpg)
+{% include slideshow.html images=page.slideshow_images_3 %}
 
 **Day 4**
 
 We woke up before dawn to watch the sunrise from the ridges of Tiramisu. Kyzylkup was quite a fun landscape to walk across; after a short steep hike up, the crest of the landscape is pretty flat so you can traverse across the tract to any point. We kept walking until we found a spot that was unobstructed by other parts of the tract and waited until the sun slowly came up. The sun was a slow poke! Ok, obviously not really, but there was a hill in the distance that blocked the horizon and I wanted breakfast and tea and I was getting hangry at the sun for being slow to rise up and over the hills. Eventually the sun did rise and after a few more pictures, we meandered back down to tear down camp and eat breakfast. 
 
-![Kevin and I at sunrise. PC: Igor.](images/IMG_2176+%281%29.jpeg)
-
-![Kevin and I at sunrise. PC: Igor.](images/IMG_2176+%281%29.jpeg)
-
-Kevin and I at sunrise. PC: Igor.
-
-![mangystau_trip-057.jpg](images/mangystau_trip-057.jpg)
-
-![mangystau_trip-057.jpg](images/mangystau_trip-057.jpg)
-
-![20241005-PA050264.jpg](images/20241005-PA050264.jpg)
-
-![20241005-PA050264.jpg](images/20241005-PA050264.jpg)
-
-![20241005-PA050261.jpg](images/20241005-PA050261.jpg)
-
-![20241005-PA050261.jpg](images/20241005-PA050261.jpg)
-
-![Kevin and I at sunrise. PC: Igor.](images/IMG_2176+%281%29.jpeg)
-
-![mangystau_trip-057.jpg](images/mangystau_trip-057.jpg)
-
-![20241005-PA050264.jpg](images/20241005-PA050264.jpg)
-
-![20241005-PA050261.jpg](images/20241005-PA050261.jpg)
+{% include slideshow.html images=page.slideshow_images_4 %}
 
 This was a full day! After tear-down, we headed to our first stop which was Beket-Ata, a famous underground mosque created by a Sufi scholar named Beket. It's a place of pilgrimage for many Kazakh muslims and involves a descent down a long set of stairs to get to the mosque. The view from the hike is really beautiful with sweeping panoramas of the Ustyurt plateau. There's a helicopter pad at the bottom of the stairs; the story goes that some sort of country leader tried to avoid having to do all the stairs to visit Beket-Ata and built a helipad but on their attempts to land there, the winds blew strongly and the chopper wasn't able to land so they assumed Beket's spirit was disallowing it. And now the helipads are in disrepair. We did the short hike in the morning so it wasn't too bad but I had to cover my hair and I didn't have a scarf so I chucked my raincoat on my head and hiking in the heat with a nonporous raincoat is definitely something I cannot recommend.
 

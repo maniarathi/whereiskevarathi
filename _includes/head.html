@@ -12,6 +12,10 @@
   <link rel="manifest" href="assets/img/favicon/site.webmanifest">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="{{ '/assets/css/slick.css' | relative_url }}"/>
+  <link rel="stylesheet" type="text/css" href="{{'/assets/css/slick-theme.css' | relative_url }}"/>
+
+  
   <link rel="stylesheet" href="{{ site.github.url }}/assets/css/main.css">
   <link rel="stylesheet" href="{{ site.github.url }}/assets/css/syntax.css">
   <!-- Use Atom -->
@@ -31,6 +35,8 @@
         }
       });
   </script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script type="text/javascript" src="{{ '/assets/js/slick.min.js' | relative_url }}"></script>
   <!-- Google Analytics -->
   {% include google-analytics.html %}
   <!-- Use Jekyll SEO plugin -->

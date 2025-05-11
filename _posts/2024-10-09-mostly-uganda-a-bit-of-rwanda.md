@@ -3,6 +3,15 @@ layout: post
 title: "Mostly Uganda, a bit of Rwanda"
 date: 2024-10-09
 image: "mostly-uganda-a-bit-of-rwanda/rwanda_uganda_2024-08-27+at+14.52.48+6-2.jpg"
+slideshow_images:
+  - url: assets/img/mostly-uganda-a-bit-of-rwanda/rwanda_uganda_2024-08-27+at+14.52.48+6.jpg
+    alt: First image description
+  - url: assets/img/mostly-uganda-a-bit-of-rwanda/rwanda_uganda_2024-08-27+at+14.52.48+98.jpg
+    alt: Second image description
+  - url: assets/img/mostly-uganda-a-bit-of-rwanda/rwanda_uganda_2024-08-27+at+14.52.48+126.jpg
+    alt: Third image description
+  - url: assets/img/mostly-uganda-a-bit-of-rwanda/rwanda_uganda_2024-08-27+at+14.52.48+178.jpg
+    alt: Fourth image description
 ---
 
 I've been procrastinating a bit on writing this post because I've been slightly nervous about having to sort through all the pictures from our very brief visit to Rwanda and Uganda. We were really only there for about four days primarily to embark on our last of three safaris to visit the primates living in the densely forested mountains across the borders of Rwanda, Uganda, and Democratic Republic of Congo. I had set my camera to burst mode in order to try to improve the odds that some of my pictures of the zipping simians might actually turn out sharp. The result of that is that I had somewhere on the order of four hundred pictures from four days that I had to sort through and I was a bit intimidated by the slow process, especially when I was only using my iPad. I've made significant progress on the project now, mainly due to a) switching to my laptop and b) having plane time to do some of the processing in phases. Now my challenge will be not to upload too many to this blog post, especially now that I've realized I can create galleries in my blogs now that I can use the full web version of Squarespace. Ah, the double edged sword of technology. 
@@ -89,29 +98,7 @@ Baby gorillas falls out of the tree! PC: Kevin.
 
 One interesting thing to watch was how the trackers communicated with the gorillas. Occasionally the silverback would grunt a bit and the trackers grunt back at an equal strength. My basic understanding is that it was a way to communicate in familiar terms to give a sense of security to the gorillas and prevent any aggression. To habituate a gorilla family for human visitors takes about two years and even after we left, a few trackers stayed behind and continued to track them over the course of the day. They even have veterinary centers to take care of gorillas in case they get hurt or ill. Because of their conservation efforts, the number of mountain gorillas is rising and moving in a positive direction away from the endangered species designation, now totalling more than one thousand.
 
-![rwanda_uganda_2024-08-27 at 14.52.48 6.jpg](images/rwanda_uganda_2024-08-27+at+14.52.48+6.jpg)
-
-![rwanda_uganda_2024-08-27 at 14.52.48 6.jpg](images/rwanda_uganda_2024-08-27+at+14.52.48+6.jpg)
-
-![rwanda_uganda_2024-08-27 at 14.52.48 98.jpg](images/rwanda_uganda_2024-08-27+at+14.52.48+98.jpg)
-
-![rwanda_uganda_2024-08-27 at 14.52.48 98.jpg](images/rwanda_uganda_2024-08-27+at+14.52.48+98.jpg)
-
-![rwanda_uganda_2024-08-27 at 14.52.48 126.jpg](images/rwanda_uganda_2024-08-27+at+14.52.48+126.jpg)
-
-![rwanda_uganda_2024-08-27 at 14.52.48 126.jpg](images/rwanda_uganda_2024-08-27+at+14.52.48+126.jpg)
-
-![rwanda_uganda_2024-08-27 at 14.52.48 178.jpg](images/rwanda_uganda_2024-08-27+at+14.52.48+178.jpg)
-
-![rwanda_uganda_2024-08-27 at 14.52.48 178.jpg](images/rwanda_uganda_2024-08-27+at+14.52.48+178.jpg)
-
-![rwanda_uganda_2024-08-27 at 14.52.48 6.jpg](images/rwanda_uganda_2024-08-27+at+14.52.48+6.jpg)
-
-![rwanda_uganda_2024-08-27 at 14.52.48 98.jpg](images/rwanda_uganda_2024-08-27+at+14.52.48+98.jpg)
-
-![rwanda_uganda_2024-08-27 at 14.52.48 126.jpg](images/rwanda_uganda_2024-08-27+at+14.52.48+126.jpg)
-
-![rwanda_uganda_2024-08-27 at 14.52.48 178.jpg](images/rwanda_uganda_2024-08-27+at+14.52.48+178.jpg)
+{% include slideshow.html images=page.slideshow_images %}
 
 After watching the gorillas, we headed to a gorgeous area of Uganda called Lake Bunyonyi. The drive to the lake itself was really beautiful. Uganda's land is undulating and the road winds through its rolling hills. Gard said that the mountains in Uganda are very fertile compared to the mountains in Rwanda which are too rocky to farm. Because of this fertile land, Ugandans produce enough food to feed the entire country (though the challenge of making sure the food actually reaches all the people still remains). We saw the land being tilled for planting long beans and tons of cabbage patches. They also produce all sorts of sweet potatoes, Irish potatoes, and a particular grain called _sorghum_. I tried this grain with some barbecued tofu in Rwanda our first night; it's a pretty hearty grain that requires some jaw strength to chew through but it was tasty. As we got closer to the lake, we also saw more quarry mining and brick manufacturing. People would sit near the rocky hills adjacent to the road and mine the rocks by hand, breaking them into small pieces. These stones are commonly bought by real estate developers in order to build buildings in the area. We also saw huge piles of bricks that had been shaped and stacked in order to be fired into actual usable bricks.
 
