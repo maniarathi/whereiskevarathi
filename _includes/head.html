@@ -12,21 +12,21 @@
   <link rel="manifest" href="assets/img/favicon/site.webmanifest">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
+  
+  <!-- Stylesheets -->
   <link rel="stylesheet" type="text/css" href="{{ '/assets/css/slick.css' | relative_url }}"/>
   <link rel="stylesheet" type="text/css" href="{{'/assets/css/slick-theme.css' | relative_url }}"/>
-
-  
   <link rel="stylesheet" href="{{ site.github.url }}/assets/css/main.css">
   <link rel="stylesheet" href="{{ site.github.url }}/assets/css/syntax.css">
+  
+  <!-- Fonts -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Quattrocento+Sans:wght@400;700&family=Source+Code+Pro&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
   <!-- Use Atom -->
   {% feed_meta %}
-  <!-- Use RSS-2.0 -->
-  <!--<link href="{{ site.github.url }}/rss-feed.xml" type="application/rss+xml" rel="alternate" title="{{ site.title }} | {{ site.description }}"/>
-  //-->
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quattrocento+Sans">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+  <!-- Scripts -->
   <script type="text/javascript" async
     src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
     MathJax.Hub.Config({
@@ -37,8 +37,10 @@
   </script>
   <script type="text/javascript" src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
   <script type="text/javascript" src="{{ '/assets/js/slick.min.js' | relative_url }}"></script>
+  
   <!-- Google Analytics -->
   {% include google-analytics.html %}
+  
   <!-- Use Jekyll SEO plugin -->
   {% seo %}
 </head>

@@ -2,56 +2,75 @@
   Base
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+// Font imports
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quattrocento+Sans:wght@400;700&display=swap');
 
+// Font variables
+$body-font-family: 'Lato', sans-serif;
+$heading-font-family: 'Quattrocento Sans', sans-serif;
+$body-font-size: 18px;
+$body-line-height: 1.75rem;
+$heading-color: $dark-gray-color;
 
+// Base styles
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: $body-font-family;
   font-weight: 300;
-  font-size: 18px;
+  font-size: $body-font-size;
   color: $body-color;
-  line-height: 1.75rem;
+  line-height: $body-line-height;
 }
 
+// Typography
+strong, b {
+  font-weight: 700;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $heading-font-family;
+  color: $heading-color;
+}
+
+h1 {
+  font-size: 2rem;
+  
+  a {
+    text-decoration: none;
+  }
+}
+
+// Responsive typography
 @media (max-width: $elements-responsive-width) {
   body {
     font-size: 14px;
     line-height: 1.5rem;
   }
-  body h1 {
+  
+  h1 {
     font-size: 1.5rem;
   }
 }
 
-h1{
-  font-size: 2rem;
-}
-
-h1 a {
-  text-decoration: none;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: $sans-serif-font-family;
-  color: $dark-gray-color;
-}
-
+// Links
 a {
   text-decoration: underline;
   color: $dark-gray-color;
+  
+  &:hover {
+    color: $link-color;
+    border-bottom: none;
+  }
 }
 
-a:hover {
-  color: $link-color;
-  border-bottom: none;
-}
-
+// Images
 img {
   max-width: 100%;
   height: auto;
   border-radius: 5px;
 }
 
+// Blockquotes
 blockquote {
   margin: 10px 20px 10px;
   padding: 0px 15px;
@@ -60,6 +79,7 @@ blockquote {
   line-height: 1.5;
 }
 
+// Horizontal rule
 hr {
   border-top: 1px solid $extra-light-gray-color;
 }
