@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  {% include head.html %}
+  <body>
+    <div class="container">
+      {% include header.html %}
+      <div class="two-column-container">
+        <div class="column-left">
+          {{ content }}
+        </div>
+        <div class="column-right">
+            <img src="{{ site.github.url }}/assets/img/about/{{ page.image }}">
+            Us two crazy kids in Norway!
+        </div>
+      </div>
+      {% include footer.html %}
+    </div>
+  </body>
+</html>

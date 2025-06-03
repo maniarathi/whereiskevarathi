@@ -9,11 +9,29 @@ body {
 .container {
   margin-left: auto;
   margin-right: auto;
-  width: 1000px;
+  width: 80%;
+  max-width: 2000px;
 }
 
 .content-container {
   margin-bottom: 4rem;
+}
+
+.two-column-container {
+  display: flex; /* Makes the container a flex container */
+  gap: 20px; /* Adds space between the columns */
+  margin: 0 auto; /* Optional: Centers the container */
+  
+}
+
+.column-left {
+  flex: 2; /* This column will take 2 parts of the available space */
+}
+
+.column-right {
+  flex: 1; /* This column will take 1 part of the available space */
+  padding-right: 20px;
+  text-align: center;
 }
 
 /*48em*/
@@ -21,6 +39,20 @@ body {
 @media (max-width: $container-responsive-width) {
   .container {
     width: 90vw;
+  }
+
+  .two-column-container {
+    flex-direction: column;
+  }
+  .column-left,
+  .column-right {
+    flex: none;
+    width: 100%;
+    min-height: unset; /* Remove min-height when stacked if not needed */
+  }
+  .column-right img {
+    height: auto; /* Let height adjust naturally when stacked */
+    max-height: 300px; /* Optional: limit image height on mobile */
   }
 }
 
