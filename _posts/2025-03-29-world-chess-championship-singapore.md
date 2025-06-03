@@ -3,20 +3,17 @@ layout: post
 title: "World Chess Championship: Singapore"
 date: 2025-03-29
 image: "singapore/singapore_world_chess_championship_day_1_47-Enhanced-NR.jpg"
+author: Arathi
 ---
 
 I procrastinated on writing these blog posts for so long partially due to the photos from Singapore. Over the course of last year, the time I spent on photography and especially post-processing dramatically increased. I was that crazy person trying to squat in weird angles to capture the perfect lighting on the spiky stalagmites in a cramped cave messing with my ISO and aperture settings to try to get the least grainy photo possible while having a shutter speed fast enough that my unsteady hands wouldn't blur the photo. This meant that I would take tens, if not hundreds of photos in a day and then the process of sorting through them became so overwhelming that I just put it off. Occasionally I would get discouraged altogether because even after I sorted through the photos, I would end up thinking that not a single one captured the wondrousness that I was trying to snapshot forever. I have a great admiration for photographers who do this professionally and create masterpieces that manage to make me feel like I'm right there in the scene they've captured, feeling the same emotions that they did.
 
 But as they say, perfect is the enemy of good and here we are about two months post-traveling, a few posts behind schedule. I got inspired again to write as we left Grenoble and while on the plane from Lyon to London, I started writing that post. It's not finished, but just the act of writing reminded me of how much I like to write. I also did manage to finally sort through the Singapore photos and so felt like it was time. So here I am, four days into moving to London, fondly remembering our phenomenal time in Singapore.
 
-\>
-
 ![](assets/img/singapore/20241124_205100.jpg)
 
 <figcaption>
-
 The Singapore Flyer at night.
-
 </figcaption>
 
 When we have traveled in the past, we usually go to a place to visit the location itself. As in: “I want to go to Botswana because there are cool safaris there and I want to see a safari.” Or “let’s plan a trip to Fiji because we want a beach vacation and I’d like to visit a place other than Hawaii and oooh, there’s a direct flight from San Francisco.” What this year has afforded us is the ability to travel to places because there is a cool thing happening there and the goal is to see the cool thing and maybe something else but not always. We did this with seeing the Nomad Games in Astana, Kazakhstan. Again with Diwali in Mumbai, India. Euros in Munich. And we did it again with visiting Singapore for the World Chess Championship (WCC) that happened to perfectly time itself with our Asian leg of our trip. 
@@ -25,7 +22,7 @@ I don’t play much chess at all. I played a bit when I was in elementary school
 
 In preparation for the match, I asked ten billion questions about chess to Kevin, especially while hiking in Bhutan. Even though I knew I wouldn't be able to totally understand everything going on, watching the best of the best play in any sport is a special and inspiring experience so my enthusiasm was high. I downloaded a chess app and started to work through some puzzles. I played some online chess where I magically won my first game and then proceeded to lose pretty much everything else. Perhaps it was futile anyways because there’s no way I was going to understand the strategies that the two grandmasters who were playing: defending champion Ding Liren and the young eighteen year old, Gukesh Dommaraju, who was vying to be the youngest ever winner of the WCC (there's an asterisk here which is that he's the _undisputed_ youngest world champion for reasons that are too in-the-weeds/historical for me to describe or dig into). At least by the end of my own preparation, I could understand the meaning of the double exclamation mark, !!, that was the icon for the WCC and I could read what moves had been played and I learned the names (note: not the exact moves) of a few openings and their relative advantages and disadvantages. Not bad for a couple weeks of small time spent!
 
-\>
+
 
 ![](assets/img/singapore/PXL_20241124_062117349.jpg)
 
@@ -45,7 +42,7 @@ We arrived at the hall the first day, panting and completely drenched because th
 
 The venue was divided into roughly three areas. One was the main lobby area with the huge Google display and also a tiny FIDE shop tucked in the back. People would largely socialize here with cups of the unlimited tea and coffee the organization provided. Then there was the fan zone. The fan zone was an area where TVs were set up with the game running with commentary that was being recorded live in a room nearby. Periodically, grandmasters would hang out in the fan zone, maybe do a Q&A. There were also tons of chess boards set up around the room for people to play; Kevin played a few rounds of chess with people here. It was really fun to see such a mix of kids and adults playing chess, even against each other. Some of these kids are so incredibly talented! I also appreciated the bean bags tossed around the room to lounge in. These were definitely popular.
 
-\>
+
 
 ![](assets/img/singapore/singapore_world_chess_championship_day_1_1-Enhanced-NR.jpg)
 
@@ -55,7 +52,7 @@ Playing chess in the fan zone.
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/singapore/singapore_world_chess_championship_day_1_41-Enhanced-NR.jpg)
 
@@ -67,19 +64,19 @@ Watching the live chess commentary.
 
 Finally, the playing room. I was curious how they would maintain silence for the players. The playing room is essentially fitted with a glass box in which Ding and Gukesh would play. There were also judges and referees in the box and at the very beginning of the game, photographers and videographers as well. All of the spectators were in the same ballroom, but outside the box. I'm sure the glass box was not entirely soundproof, but there were very strict requirements around being quiet in the spectator room (thus why no food: you aren't allowed to crinkle anything) so it was probably pretty quiet in there. For the first thirty minutes of every game, they would allow photos to be taken and then afterwards, they would shoo everyone out to lock away all electronics including phones before they could come back inside. 
 
-\>
+
 
 ![](assets/img/singapore/singapore_world_chess_championship_day_1_13-Enhanced-NR.jpg)
 
 It's pretty awesome to watch inside the spectator room. You can immediately feel some of the tension and people on the edge of their seats. The first game was particularly intense. Gukesh started with white pieces (usually an advantage to be able to try to win outright) and Ding had spent a long time on a very early move which was quite unusual because the first moves are usually played memorized. Suddenly in mid-game, Ding started busting out a series of moves that had Gukesh on the backfoot and by the end, people in the audience room were madly whispering various moves to each other to see whether Gukesh could even scrape a draw. He could not. With just seconds on the clock, Ding managed to win outright with black pieces on the first game. The room erupted with applause. I thought about half the room would walk out with a good chunk of their hair missing from all the tense yanking.
 
-\>
+
 
 ![](assets/img/singapore/singapore_world_chess_championship_day_1_34-Enhanced-NR.jpg)
 
 We watched a second game as well the following day though this one ended up as a draw and was much less intense than the first one as both players seemed to be pretty ready to draw early on. Even though we only saw two matches live, we continued to keep up with the matches online and two and a half weeks later, Gukesh became the youngest FIDE world champion just eking out a win 7.5 to 6.5. Lots of memes were borne from videos of Ding eating bananas and walnuts and not having ice cream. Both players were easy to root for. Both players graciously acknowledged each other's strengths and prowesses during interviews. When press conferences would occasionally ask spicy questions, they both answered maturely, sidestepping controversy. It was nice to see Ding play very solidly throughout the game as many had doubted his form after a period of mental struggles and taking a break from chess. Neither Kevin nor I were rooting strongly for one or the other so it was just a really enjoyable championship to watch with some great, intense chess being played. 
 
-\>
+
 
 ![](assets/img/singapore/singapore_world_chess_championship_day_2_14.jpg)
 
@@ -87,7 +84,7 @@ I should remember to seek out more experiences like this in the future. I really
 
 I'll drop a few photos below of more things we did in Singapore besides eat food and watch chess! We definitely filled our days by visiting gorgeous gardens and museums as well!
 
-\>
+
 
 ![](assets/img/singapore/PXL_20241127_082110444.jpg)
 
@@ -97,7 +94,7 @@ We saw this exhibit at the Asian Civilizations Museum. These bowls were excavate
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/singapore/PXL_20241127_081834431.jpg)
 
@@ -107,7 +104,7 @@ This vase from the shipwreck is so gorgeous with its crawling coral.
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/singapore/20241124_183945.jpg)
 
@@ -117,7 +114,7 @@ Some classic Chihuly at the Botanical gardens.
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/singapore/PXL_20241124_114125390.jpg)
 
@@ -127,7 +124,7 @@ These “super trees” are actually quite cool. They have solar panels and also
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/singapore/20241124_211455.jpg)
 

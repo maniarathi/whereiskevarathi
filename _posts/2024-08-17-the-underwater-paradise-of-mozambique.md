@@ -2,12 +2,13 @@
 layout: post
 title: "The Underwater Paradise of Mozambique"
 date: 2024-08-17
+author: Arathi
 image: "the-underwater-paradise-of-mozambique/PXL_20240724_075932843_Original.jpeg"
 ---
 
 Researching Mozambique was an interesting experience. There weren’t many blogs or travel reports on the internet that we could use to do deep research on the country which was a new experience for us. We were torn between whether to continue to explore South Africa or try to jump over to Mozambique and decided to do the latter because we were interested in getting our Open Water scuba licenses and we’d heard that there was excellent diving in Mozambique. We also thought that it would be an interesting experience traveling to a less trodden country. As with every country in Africa, I always forget how enormous every country is; Mozambique is elongated in its territorial morphology and getting from top to bottom is a journey, especially because the roads are not very good. Scratch that; the roads are terrible. There are short domestic flights to get around and we ended up taking a flight from Johannesburg to Maputo (the capital) and then onwards to Inhambane, the gateway to the beach town of Tofo where we signed up for a PADI Open Water course. 
 
-\>
+
 
 ![](assets/img/the-underwater-paradise-of-mozambique/PXL_20240719_045207539_Original.jpeg)
 
@@ -19,7 +20,7 @@ The view of Tofo beach from Liquid Dives.
 
 As I mentioned in the Munich post, we both ended up starting to feel pretty crappy after starting to take the antimalarials. I had particularly bad nausea which made it difficult for me to eat anything which meant that my first five days in Tofo were spent saving energy to do the scuba course and then going to bed, curled up in a fetal position trying to finish the online theory coursework. Nausea withstanding, the scuba course itself was amazing! We stayed at a place called Liquid Dives that was situated right on the beach with small cute cabins that all faced out to sea. They run a smooth operation with two dives a day, one at 8:30am and another at 1pm and many of the folks who dive at this location also stay here as a dive+stay vacation. We met a lovely mother-daughter duo from Canada who were spending ten days at Liquid doing two or three dives each day and also helping with operations and even help clean up the beach.
 
-\>
+
 
 ![](assets/img/the-underwater-paradise-of-mozambique/PXL_20240719_044009382_Original.jpeg)
 
@@ -33,7 +34,7 @@ One of the cool things about diving in Tofo is that the dive sites are not very 
 
 I’ve gone diving before in both the Great Barrier Reef and also with Kevin in Rapa Nui but both times, it was with a guide who was hanging on to me so being able to navigate myself was such an amazing experience. We saw tons and tons of sea creatures: an octopus that changed color when it noticed us, lionfish, sting rays, guitarfish, pufferfish, huge schools of various types of colored fish, a moray eel, sea slugs, and more. Our instructor, Anizio, had all sorts of detailed hand signals for each type of sea creature, like an underwater sign language, that helped us identify each species. I was awestruck when we heard whale sounds underwater. It took me some time to realize it was whale noises; the first time I heard it, I thought something was wrong with my air cylinder, maybe a small leak or something, as the sound was like a whistle. When we got back up to the surface I was told it was whale noises. The second time I heard it, I recognized it right away and boy, that second time the whales were really talkative! To be able to hear them speak was magical.
 
-\>
+
 
 ![](assets/img/the-underwater-paradise-of-mozambique/P7220021.jpeg)
 
@@ -53,7 +54,7 @@ This bird was trying so hard to get into our Airbnb! He would diligently be hamm
 
 We got really lucky with one rental we stayed at that I cannot recommend enough called [Pura Vida](https://maps.app.goo.gl/qktL4jP6KDaFC2369?g_st=com.google.maps.preview.copy). The top floor is the bedroom and every morning when we woke up, we’d have unobstructed views of the ocean and sunrise as it faced due east. We went to bed every night with the calming sound of the ocean and we especially loved the indoor-outdoor feel of the place; the bottom floor’s glass wall could be fully folded in to connect the kitchen, dining area and living area with the outdoor patio. There was an outdoor shower as well and we were lucky to have a full moon beautifully shining overhead. This time of year the humpback whales are migrating northward with their calves and we could often spot them directly from our living room, aided with our binoculars. The calves are very active and playful and we spotted them frequently breaching and spouting. After 31 years of not seeing a single whale, I got to see so many! And babies at that!
 
-\>
+
 
 ![](assets/img/the-underwater-paradise-of-mozambique/20240719_113432_Original.jpeg)
 
@@ -67,7 +68,7 @@ The “ocean safari” was phenomenal. It’s basically a snorkeling trip but in
 
 Unfortunately we didn’t see any whale sharks but we did see those whales and we saw a manta ray as well. Or rather, Kevin did. I was too slow at putting on my fins and by the time I frantically swum to reach the guide, the manta ray had disappeared. I was a bit cautious getting into the water without a wetsuit because I got stung by a jellyfish (again!) on my ankle the previous day. Seeing the baby whale was absolutely worth the trip though and by this point, we were starting to feel a little better so it was nice to be on a boat and actually enjoy the wind in my hair rather than worrying about trying not to vomit. You’ll notice that in this post, we have no photos of whales or octopods or any of the other amazing creatures we saw from the water. Unfortunately we didn’t have any waterproof camera equipment so all those memories will have to be kept solely in our brains! We’re planning on getting a GoPro sometime soon to capture record of future underwater explorations!
 
-\>
+
 
 ![](assets/img/the-underwater-paradise-of-mozambique/20240724_195500_Original.jpeg)
 
@@ -79,7 +80,7 @@ We saw these cute tiny puppies darting around while we returned from eating out 
 
 During our last day in Tofo, we walked around the town a bit, outside of our typical triangle of spots between our lodging, restaurant area, and the beach. Tofo is roughly divided into two halves, split by a marsh that has a pedestrian bridge built in 2012 to make it possible for kids on one side of the marsh to attend the single school on the other side. Venturing outside of the beach houses is eye opening because we got to see the basic, straw-thatched houses that Mozambicans live in. The people are very kind and helpful though, which was really lovely. Except the traffic police. Even the locals know and call out the traffic police as extremely corrupt. They line the major roadways and will stop you and try to “fine” you for random things like not having new tires. We read a little bit about this before arriving in Mozambique because we thought we might drive ourselves and read that tips to avoid paying the bribes range anything from “keep cans of pop in your car and offer them a can of pop instead” to “bewilder them into letting you go by getting out of the car and starting to make some tea for them.” On our thirty minute ride from the airport to Tofo town, our driver got stopped three times by the police and I think he somehow managed to get away without paying anything though I’m not sure what he said since it was all in Portuguese. He was clearly frustrated as well though.
 
-\>
+
 
 ![](assets/img/the-underwater-paradise-of-mozambique/P7220029.jpeg)
 
@@ -89,7 +90,7 @@ The bridge connecting the two populations across the marsh that was built specif
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/the-underwater-paradise-of-mozambique/P7220032.jpeg)
 
@@ -101,7 +102,7 @@ Some cool flora in Tofo!
 
 Our time in Tofo finally came to an end and we took a transfer up to Vilanculos, another beach town also known for diving and snorkeling but in contrast to Tofo, known for more beautiful reefs rather than wildlife. We spent one full day doing a snorkeling excursion and visiting the untouched archipelagos just off the coast of Vilanculos. The most famous of these is called Bazaruto and we loved spending time exploring the sand dunes that beautifully crest on the island. It sort of reminded us of Sossusvlei in Namibia, except out in the middle of the ocean. We had tons of fun climbing up to the highest point of the sand dunes, finding the steepest edge and sprinting down, letting the deep sand bounce us up and down, just as we had learned to do in Namibia two years ago. The snorkeling was phenomenal too; the reefs are so extensive, colorful and pristine. It never ceases to amaze me what wonderful and intricate nature exists just below the water and especially seeing the unadulterated reefs, not yet overcrowded by excessive tourism, was just something else. There were maybe a total of three boats out on the water the day we went snorkeling and on the huge islands, it’s so easy to feel that you have the whole island or reef to yourself. And we saw a dugong! Dugongs’ closest relative is the elephant (!!) and are a threatened species but they like hanging around the archipelago and we were lucky to see one. They are funny looking creatures but also, I think, really adorable.
 
-\>
+
 
 ![](assets/img/the-underwater-paradise-of-mozambique/PXL_20240724_062957811_Original.jpeg)
 
@@ -111,7 +112,7 @@ Check out the ingenious captain’s chair. Later on the chairs were separated to
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/the-underwater-paradise-of-mozambique/PXL_20240724_075932843_Original.jpeg)
 
@@ -121,7 +122,7 @@ Bazaruto island
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/the-underwater-paradise-of-mozambique/PXL_20240724_074156470_Original.jpeg)
 
@@ -131,7 +132,7 @@ These sand dunes reminded us of Namibia! Very cool to hike on!
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/the-underwater-paradise-of-mozambique/PXL_20240724_114854664_Original.jpeg)
 
@@ -145,7 +146,7 @@ Somewhat differently than Tofo, Vilanculos doesn’t have just one contiguous st
 
 If you ever go to Africa, it’s good to remember that food is always made to order and typically food takes about one hour to show up. We made this mistake a couple times in South Africa, showing up to dinner at 7pm, but now we had learned to start making our way to dinner at 6 or 6:30pm and enjoy a conversation, maybe a drink for an hour before eating. The food in Mozambique has always been top notch though. I have a new love for a dish called _matapa_, a sort of stew served with rice that is made with cassava leaves, garlic, and peanuts. And piri-piri hot sauce made with African bird’s eye chiles, lots of salt and lemon, and some other additions like red bell pepper, onions, and other spices. I sort of wish we had bought some, made by one of the vegetable vendors, but the quantity was just so large. We have resolved to try to make it once we’re back to living in a single location again.
 
-\>
+
 
 ![](assets/img/the-underwater-paradise-of-mozambique/PXL_20240722_170411724_Original.jpeg)
 
@@ -157,7 +158,7 @@ Matapa is the green stew in the bowl and piri piri hot sauce is the red thing in
 
 On our final day in Mozambique, we went on a sunset _dhow_ cruise. My eyes widened a bit when we waded out to the _dhow_, a sailing boat typically used by the fishermen in the area. It was definitely an authentic experience; there were a few small fish lying dead at the bottom of the boat (the boat had been out fishing earlier) and the boat was leaking in some water. Occasionally the junior crew member would grab a sawed open yellow plastic gas canister and scoop out the seawater from the bottom of the boat. The single black sail had a few holes but also had a few areas patched up. Did we know why the sail was black, our guide asked? No. Because all the sails come from China and they only make black ones. I guess that makes sense! We had fun though; it was really peaceful to sail the calm waters along with the other dhows that were coming back in with their fish hauls. We saw hoards of women with large shallow plastic tubs seated on the beach and as soon as a fisherman beached with their haul, they would swarm and try to purchase the fish so that they could resell it at the local market. Our guide expressed frustration with China, shaking his head and sighing “China.” He explained that large fishing vessels from China would come in and hide behind the archipelagos, areas that the fishermen of Mozambique were not allowed to fish in without a special permit. Then they would illegally fish huge amounts, much larger than the capacity of any dhow, and take it away to sell elsewhere. The Mozambicans have specific laws that prohibit fishing certain species and in certain areas and certain times/days (they are not supposed to fish on Sundays) but the Chinese boats pay no heed to those regulations. Our guide said that the people have no confidence in the government to help with anything and are extremely corrupt so their best bet is for private citizens to do something or hope that an NGO steps in to get something done. He also mentioned this in the context of roads which are in terrible shape and have a very poor prospect of getting fixed in any sort of reasonable timeframe. We saw young children on the side of the road filling in potholes with buckets of sand and asking for tips from the cars that drove by.
 
-\>
+
 
 ![](assets/img/the-underwater-paradise-of-mozambique/PXL_20240725_132547253_Original.jpeg)
 
@@ -167,7 +168,7 @@ Our trusty (?) dhow.
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/the-underwater-paradise-of-mozambique/P7250044.jpeg)
 
@@ -177,7 +178,7 @@ This sail was honestly probably one of the better looking ones out at sea. 
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/the-underwater-paradise-of-mozambique/P7250043.jpeg)
 
@@ -187,7 +188,7 @@ Lots of dhows at sea! Though these are all largely actual fishing boats. 
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/the-underwater-paradise-of-mozambique/PXL_20240725_132452114_Original.jpeg)
 
@@ -199,7 +200,7 @@ Women waiting on the beach with buckets to buy the fish the fishing boats bring 
 
 It was nice to learn more about the country, its people and culture on this sunset cruise while sipping on 2Ms, the most popular Mozambican beer, and munching on roasted cashews, watching the sun slowly go down. It will be interesting to see how Mozambique develops over the next few years; it’s clearly a country that has a lot of potential and it has such an incredible coastline with stunning wildlife and reefs that it can definitely rival some of the best beach destinations in the world. With that, we departed from Mozambique, back to Johannesburg. We did a very normal thing of going to a movie theater at the Mall of Africa and watching Inside Out 2, an excellent movie, and eating Krispy Kremes afterwards. I think that might have been the first movie we have watched this year! And then onwards to Zanzibar, Tanzania!
 
-\>
+
 
 ![](assets/img/the-underwater-paradise-of-mozambique/P7250050.jpeg)
 

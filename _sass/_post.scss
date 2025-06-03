@@ -6,9 +6,10 @@
   display: block;
   margin-top:3px;
   margin-bottom: 1rem;
-  color: $light-gray-color;
-  font-family: 'Montserrat', sans-serif;
-  font-size:0.8rem;
+  text-align: center;
+  font-size:1rem;
+  font-weight: bold;
+
 }
 
 @media (max-width: $elements-responsive-width) {

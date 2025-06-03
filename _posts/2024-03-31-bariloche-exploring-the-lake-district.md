@@ -2,6 +2,7 @@
 layout: post
 title: "Bariloche: exploring the Lake District"
 date: 2024-03-31
+author: Arathi
 image: "bariloche-exploring-the-lake-district/P3150057_Original.jpeg"
 ---
 
@@ -9,7 +10,7 @@ Since the O trek in Torres del Paine, it has felt like our hiking escapades have
 
 We went into Bariloche reading that it was quite a bit more touristy than the other locations we had visited to date in Argentina. Bariloche is the main town in Argentina’s “Lake District” and true to its name, has many gorgeous lakes, the main one being the glacial lake Nahuel Huapi, nearby where one can enjoy the beach, participate in various water activities, and camp near the shores. These lakes attract visitors near (Argentinians and other visitors from South America especially Brazilians and Chileans) and far (like us!) during the summer. The town itself is quite a bit more built out than either Calafate or Chaltén which was a welcome change, even just to have Wifi readily available. And we enjoyed some top notch chocolate from two wonderful chocolate shops (we made three chocolate shopping stops in our short time in town).
 
-\>
+
 
 ![](assets/img/bariloche-exploring-the-lake-district/PXL_20240315_003755679_Original.jpeg)
 
@@ -21,7 +22,7 @@ The Rapa Nui chocolate shop. This was just a tiny sampling of their offerings as
 
 Bariloche also boasts beautiful mountains nearby as it is still part of Patagonia. These mountains turn the town into a ski haven in the wintertime that attracts ski and snowboard enthusiasts. And of course during the summertime (and now autumn!), the same mountains attract hiking enthusiasts. Are we hiking enthusiasts now?
 
-\>
+
 
 ![](assets/img/bariloche-exploring-the-lake-district/P3150057_Original.jpeg)
 
@@ -33,7 +34,7 @@ This picture was taken on a bike ride that really highlighted both the lakes and
 
 Before we embarked on even more hiking adventures, we decided to spend our first day doing “Circuito Chico” by bicycle. It’s not a very long loop (~27 kilometres), but the path has several stops where we could get off and explore beaches, do short hikes, and even stop for food/beer if so inclined. We saw some really cool wildlife including ashy-headed geese (they look like wooden geese to me!) and a fox. We also did a small hike up a “Cerro” (peak) and the views were well worth the straight up-hill climb.
 
-\>
+
 
 ![](assets/img/bariloche-exploring-the-lake-district/P3150025_Original.jpeg)
 
@@ -43,7 +44,7 @@ A ashy-headed goose.
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/bariloche-exploring-the-lake-district/P3150062_Original.jpeg)
 
@@ -55,7 +56,7 @@ View from the top of Cerro Llao Llao (the short hike off of Circuito Chico).
 
 We retired back to our Airbnb where we once again lucked out with a studio apartment that had a stunning view of the lake. We enjoyed eating dinners on the table facing the lake and waking up every morning and seeing the lake first thing in the morning since the foot of the bed faced the lake. 
 
-\>
+
 
 ![](assets/img/bariloche-exploring-the-lake-district/PXL_20240315_110826739_Original.jpeg)
 
@@ -69,7 +70,7 @@ On day 2 in Bariloche, we went on the first hike that defeated us. Cerro Cathedr
 
 One of the cool parts of the “up and over” route is that they keep open a couple chairlifts that take you most of the way up the mountain so that getting to the peak only takes about 30 minutes. And a big bonus is that you get to skip a lot of the altitude gain — about 90% of it is done via the chairlifts. On this particular day, we arrived bright and early to the ski resort and found it nearly completely deserted save for an unusually large group of trail runners at the base (more on that in a bit!). We roamed around the base area looking for what to do and ran into a trio who were searching for the same chairlifts. With their help, we found the ticket office and waited around for another 10-15 minutes until it opened at 9am. We met our first roadblock: one of the workers at the resort let us know that the usual chairlifts were not running but a farther away chairlift was going instead. Instead of the usual 30 minutes to the trailhead, we could have to get off the running chairlift, hike up 30 minutes to a refugio at the top and then traverse over another hour to get to the trailhead. An hour more seemed doable!
 
-\>
+
 
 ![](assets/img/bariloche-exploring-the-lake-district/P3160080_Original.jpeg)
 
@@ -81,7 +82,7 @@ From the top of the gondola. You can see some of the ski runs on the left.
 
 A quick aside on hiking in Argentina. We’ve noticed a difference in our experience hiking in the US versus in Argentina (and Chile for that matter). Argentinians have more of a preference to continue to have their homely comforts while hiking and don’t care as much to do huge mileages in a day. There are refugios throughout all the national parks where you can stay a night, sleep in a proper bed, and get hot meals. Kevin and I typically make sandwiches and pack snacks in the morning that we eat for lunch, but a hot lunch is readily available if you pass any of the refugios and are not too expensive either. These refugios are almost always located in very picturesque locations as well that allow you to explore alpine lakes, forage for seasonal berries and just enjoy the slower pace of life.
 
-\>
+
 
 ![](assets/img/bariloche-exploring-the-lake-district/P3170143_Original.jpeg)
 
@@ -93,7 +94,7 @@ Refugio Italia bordering Laguna Negra (a hike we did on a different day).
 
 Anyways, back to the story! We went up the chairlift uneventfully (though standing in a gondola without skis and ski boots felt awfully weird!) and managed to get to the refugio. At this point, it wasn’t exactly clear how to traverse over. This was a ski resort after all, not necessarily an area with marked hiking trails, so we starting walking along the ridge knowing that we needed to get over to a peak called “Punta Princessa” which thankfully was also the name of a chairlift so we could using the ski trail signs to roughly know when we arrived. There were areas of this part of the hike that definitely required putting away the hiking poles and clambering over rocks to continue along the path. Occasionally we would see some faded colored dots that also greatly helped highlight the path. And eventually we did arrive the trailhead! 
 
-\>
+
 
 ![](assets/img/bariloche-exploring-the-lake-district/P3160086_Original.jpeg)
 
@@ -105,7 +106,7 @@ The views along the ridge were stunning and it was an odd feeling to be hiking s
 
 We peeked over the ridge and holy macaroni — the trail turned into a 2 foot width snowy path cutting through a steep mountain that definitely elevated my heart rate for both its terrifying nature and its beauty at the same time. We started slowly descending down and traversing the ridge, taking extra care as to not slip in the snow. We at least managed to take a few pictures because the view from this ridge was unreal. Within about 15-20 minutes, we reached a large scrambling area without a clear view of the trail beyond.
 
-\>
+
 
 ![](assets/img/bariloche-exploring-the-lake-district/P3160111_Original.jpeg)
 
@@ -115,7 +116,7 @@ Absolutely unreal scenery from the backside of the mountain. Also the trail led 
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/bariloche-exploring-the-lake-district/20240316_104317_Original.jpeg)
 
@@ -127,7 +128,7 @@ Snowy trails!
 
 And so we finally decided to turn back. I was particularly uncomfortable with the idea of having to climb/scramble rocks in the snow and we still had most of 4 hours of this hike to go before reaching the refugio. It wasn’t clear if or when the sketchy scrambles might end. We made our way back along the ridge and navigated over to the gondola as one might do during skiing, walking down ski runs that traversed over, attempting to navigate using Google Maps. We finally made it over, enjoyed a leisurely lunch at the top of the gondola since we suddenly had so much time to kill left in the day, and took the gondola back down. What an adventure! 
 
-\>
+
 
 ![](assets/img/bariloche-exploring-the-lake-district/P3160116_Original.jpeg)
 
@@ -141,7 +142,7 @@ We ended up doing Cerro San Martín which was nearby a bit later which was also 
 
 Remember those trail runners? In the evening, while returning back to our Airbnb from picking up groceries in town, we stumbled on the finish line for a race. We looked it up later — Bariloche has a crazy 100 kilometer trail running race ([https://www.bariloche100.com/)](https://www.bariloche100.com/\)) that happened to be running that day! These trail runners run through _multiple_ peaks (and our poor legs were done after just one!) and start at 3am. At Cerro Cathedral, we had seen trail runners who were competing in probably one of the smaller distances! We were really impressed and awed!
 
-\>
+
 
 ![](assets/img/bariloche-exploring-the-lake-district/P3160128_Original.jpeg)
 
@@ -153,7 +154,7 @@ View from Cerro San Martín.
 
 We came back for round two of the Refugio Frey two days later, but this time going around the mountain which was a beautiful and “non-technical” hike. We loved watching the climbers who were scaling a peak near Frey. We also went around the lake that Frey sits next to to scout out the end of the “up and over” hiking path — we learned later that the more nerve-wracking parts of the hike were the descents down to two alpine lakes that are essentially “find a path that looks the least bad.” 
 
-\>
+
 
 ![](assets/img/bariloche-exploring-the-lake-district/P3180010_Original.jpeg)
 
@@ -163,7 +164,7 @@ Watching rock climbers from Refugio Frey.
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/bariloche-exploring-the-lake-district/P3180023_Original.jpeg)
 
@@ -175,7 +176,7 @@ The lake at the end of the Refugio Frey hike. We are very glad we tried again!
 
 The last hike we did in Bariloche proper between Cerro San Martín and round of Refugio Frey was a hike to Laguna Negra, a beautiful alpine lake with a path that took us through forests, through valleys with waterfalls and towering stone, and finally to a refugio (Refugio Italia) that looked almost surreally placed next to a dark lake.
 
-\>
+
 
 ![](assets/img/bariloche-exploring-the-lake-district/P3170142_Original.jpeg)
 
@@ -185,7 +186,7 @@ Laguna Negra.
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/bariloche-exploring-the-lake-district/P3170144_Original.jpeg)
 
@@ -197,7 +198,7 @@ Enroute to Laguna Negra.
 
 It’s hard to believe I’m saying this but I felt like we could have spent more time in Bariloche; the hikes surprised us with their variance and difficulty and there was a list of things that I would love to come back to try. The endless opportunities to hike to refugios that look like they’d been plopped into the most unexpected of locations makes every hike unique. And we didn’t really even graze the vast water activities that are available more in the peak of summer like kayaking and rafting (including overnight trips)! Alas, Patagonia is vast and we decided to continue to move on to explore other areas of Patagonia! I guess it just means we’ll have to come back again someday!
 
-\>
+
 
 ![](assets/img/bariloche-exploring-the-lake-district/P3180003_Original.jpeg)
 

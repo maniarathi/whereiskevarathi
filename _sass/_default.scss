@@ -147,3 +147,15 @@ body {
   font-family: $sans-serif-font-family;
   font-size:0.8rem;
 }
+
+/*
+  Figures
+*/
+
+figcaption {
+  font-size: 0.9em; /* Smaller font size relative to parent */
+  color: #666; /* Lighter color */
+  padding: 0px 10px 30px;
+  line-height: 1.4; /* Improve readability */
+  text-align: center;
+}

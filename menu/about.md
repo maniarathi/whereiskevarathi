@@ -5,7 +5,7 @@ permalink: /about
 image: 20160912_162016.jpeg
 ---
 
-# What are we doing?
+## What are we doing?
 
 At the start of 2024, we left our jobs and decided to take a year off to go and explore the world. We both love to travel and for a long time had tossed around the idea of taking a break from work (a tough thing given that we both love our jobs!) and spend some dedicated time to travel.
 

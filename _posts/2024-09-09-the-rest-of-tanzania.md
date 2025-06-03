@@ -2,6 +2,7 @@
 layout: post
 title: "The Rest of Tanzania"
 date: 2024-09-09
+author: Arathi
 image: "the-rest-of-tanzania/tanzania_safari_2024-08-27+at+14.49.13+148.jpg"
 slideshow_images:
   - url: assets/img/the-rest-of-tanzania/tanzania_safari_2024-08-27+at+14.49.13+15.jpg
@@ -82,7 +83,7 @@ I feel like in the past several blog posts, I've been beginning by saying "ah, I
 
 So, going way back. After Zanzibar, we headed to Arusha where we started our first of three safaris. This one was seven days and traversed primarily through the Serengeti with stops at Tarangire National Park, the Ngorongoro Crater, and Lake Manyara National Park. We decided to go with a private safari that had all the stops we wanted and we had two wonderful guides, Emanuelle and his trainee Dominick who treated us to the most amazing wildlife sightings for the following six days (the first day was mostly a travel day... plus a weird stop at a humongous souvenir store that was totally empty, yet filled to the brim with all sorts of tchotchkes... do they actually sell everything?!). After landing in Arusha, we walked straight off the plane onto the tarmac, through a lightweight door and spilled onto the parking lot surrounding some splintered picnic tables where the ground staff chucked our bags directly from the belly of the plane. Ahhh, I missed this. Back in Toronto when I was working on my pilot's license, I loved being able to walk right through the back door of the school directly onto the tarmac to my plane sitting right at the edge of Lake Ontario. Don't worry, the back door was password protected! 
 
-\>
+
 
 ![](assets/img/the-rest-of-tanzania/PXL_20240731_124821512.jpg)
 
@@ -96,7 +97,7 @@ We grabbed our bags from the ramshackle bench and headed to our hotel to spend t
 
 The following morning, I felt somewhat better though there were still some lingering food poison-y symptoms. Down at breakfast, I went over to the juice station and saw the green juice again and below, it was labeled. Avocado Juice. Oh my gosh. The previous day I had downed a tall glass of avocado juice. I didn't even know avocado juice was a thing! No wonder I was sick (I am allergic to avocados... yes very weird)! Here's the dumb thing I did though; I thought, oh, tropical juice seems like it should be fine. I took a big ol' glass of tropical juice and started drinking it while explaining to Kevin what had happened and he said "umm, is it possible that 'tropical juice' is just a mix of the avocado juice and mango juice that's also sitting on the table?" I was close to smashing the glass with how hard I put that juice down. Oops. Again. Kevin was dead on correct. A short while later, while in the midst of an _incredible_ experience of doing a walking safari in the middle of Tarangire National Park, I had to ask our guide whether it might be ok for me to vomit behind some bushes. He said yes, but I think he knew, he didn't have a choice. 
 
-\>
+
 
 ![](assets/img/the-rest-of-tanzania/tanzania_safari_2024-08-27+at+14.49.13+8.jpg)
 
@@ -116,7 +117,7 @@ The following three days were spent roaming around in the Serengeti, mostly in t
 
 The leopard sighting was possibly one of my favorite experiences. Emanuelle, on his previous safari to the Serengeti, had found a particular rock with some trees where a leopard had called home and he drove us to the same rock on this trip, hoping that the leopard might be still around. Not only was she there, but her cub was peeking out as well! There wasn't a single other safari vehicle around and we watched the mama leopard and her cub lounging on the rock for about twenty or thirty minutes (I think... I lost track of time) until mama decided she needed a snack and with a big stretch, stalked off into the bushes where it seemed like she evaporated into thin air with her camouflage. With most of our other sightings, other vehicles will be around which can sometimes eat into the experience of being so near these amazing wild animals. Watching this mama and baby quietly for so long without another soul around was just so special.
 
-\>
+
 
 ![](assets/img/the-rest-of-tanzania/tanzania_safari_2024-08-27+at+14.49.13+133.jpg)
 
@@ -126,7 +127,7 @@ What an unbelievably handsome mama leopard.
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/the-rest-of-tanzania/P8030180.jpg)
 
@@ -138,7 +139,7 @@ Why do they call the yoga pose "downward dog"? It really should be "downward cat
 
 We actually tried to time our visit to the Serengeti to catch the annual Great Migration where millions of wildebeests and zebras cross the treacherous Mara River from the northern part of the Serengeti over to Kenya, following the rain patterns to greener grasses. The Great Migration is the most massive land migration by total body weight. Why is the Mara River so treacherous? It's filled with crocodiles that love a good wildebeest snack. We had read that the best time to catch it might be in July or August so we aimed for the beginning of August. Seeing the Mara River crossing even on a good year is a crapshoot. We learned that wildebeests have terrible eyesight and so rely on the zebras to figure out when to cross, but even as they approach for crossing, any small thing moving in the river could spook them and they would turn back. Unfortunately, this year there were other elements at play; apparently both this year and the last couple of years, the rain patterns have been quite irregular which has caused the animals to cross much earlier than usual. While we were in the Serengeti, we saw what we thought were tons of wildebeest but Emanuelle said that it was quite low in numbers because the majority of them had already crossed. Also, unusually, the wildebeests crossed over a different river this year, the Sun River, instead of the usual Mara River. Luckily for the wildebeest, the Sun River has far fewer crocs so many of them had a safe and uneventful passage. In any case, we also learned that the majority of wildebeest who perish during the crossing each year actually die from their own stampede rather than the crocs. If the stampede is large enough, the crocs know to get out of there lest they too perish in the unremitting pounding of hooves. In addition to crossing early, there have been rains during what should be the dry season (we experienced this ourselves in Kenya later) and so some wildebeest have crossed in the opposite direction. Apparently, and unsurprisingly, climate change is speculated to be the cause of the variation in weather patterns so in the future, one's best bet to try to see the Mara River crossing is to try earlier in the year in early July.
 
-\>
+
 
 ![](assets/img/the-rest-of-tanzania/tanzania_safari_2024-08-27+at+14.49.13+154.jpg)
 
@@ -154,7 +155,7 @@ In any case, we did see a small herd (again, to me, it seemed big) of some thous
 
 On our last day in the Serengeti, we saw something that Emanuelle said is so rare that he sees it roughly every two years even with the number of safari trips he does every month. We were tracking down a lion and saw it sort of alert in the grass. As we watched, the lion started walking. Then jogging. At this point, Kevin and I were both thinking, oh wow, we've never seen a lion jog, that's cool! A second later, the lion is in an all out sprint and we hear squealing and we realized what was happening: it found food. Even as I write this and remember watching the chase, I can feel my heartrate quicken a little. It was something else to watch both the lion and warthog sprint through the grass at full speed, right behind our vehicle across the car path before the lion caught the warthog and suffocated the poor warthog until he was dead. Noooo, not Pumbaa!
 
-\>
+
 
 ![](assets/img/the-rest-of-tanzania/tanzania_safari_2024-08-27+at+14.49.13+183.jpg)
 
@@ -166,7 +167,7 @@ Simba caught Pumbaa!
 
 As the lion continued to suffocate the warthog (typically a lion will first kill their prey through suffocation before eating in contrast to other more savage animals like wild dogs that will eat their prey alive), we saw the most comical scene happening. A hyena apparently heard the commotion and we saw him slowly come out of the grass and start to lurk a little ways away from the lion. I was genuinely laughing as we watched the hyena sort of get near, then hide behind a tree, then approach a bit, then hide off
 
-\>
+
 
 ![](assets/img/the-rest-of-tanzania/tanzania_safari_2024-08-27+at+14.49.13+193.jpg)
 
@@ -176,7 +177,7 @@ This hyena was looking to get a piece of that fresh meal the lion caught. Shifty
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/the-rest-of-tanzania/P8040242.jpg)
 
@@ -188,7 +189,7 @@ The lion knew the hyena's tricks and was out of there as soon as the warthog was
 
 After three days in the Serengeti, we rattled our way over to a conservation area called Ngorongoro Crater. One thing of note: in Tanzania and neighboring countries, there is both the concept of a national park and also a conservation area. Historically, many humans have lived in the areas where wild animals roam, but in order to both protect the animals as well as foster tourism these two designations have been developed to balance it with supporting the traditional peoples' way of life. In a national park, no humans are allowed to live on the land. No poaching is allowed (punishable by life in prison) and humans cannot use the area for feeding their cattle. This is especially important because the primary tribe that lives in these areas are the Masai people and their livelihood is in husbandry. To create a national park, typically the government has relocated the people who originally lived on the land. In contrast, in conservation areas, there are radiuses set where humans are allowed to let their livestock graze the land and set up their villages. This allows the people to continue to live their ways of life and still maintain a radius of protection for some of the animals. The Masai people don't actually hunt or eat wild animals; they typically have only killed the animals when they threaten their livestock but this can happen very frequently if these boundaries haven't been set. 
 
-\>
+
 
 ![](assets/img/the-rest-of-tanzania/tanzania_safari_2024-08-27+at+14.49.13+217.jpg)
 
@@ -210,7 +211,7 @@ But not to depart yet! We actually ended up spending a few more days in the vici
 
 At this point, Kevin and I were hoping to be able to do some more self-guided exploration which is one of the reasons why we rented a car. It's actually surprisingly challenging to do self-guided exploration though. Renting a car involved me Whatsapp-ing some previous car rental contacts and hotels to see if anyone knew of anyone in the Arusha area that could rent us a car. Eventually we found one through a completely random number we found on Google Maps. It was surprisingly expensive too, even after negotiating down (everything must be negotiated in Africa so we've gotten decently good at it). We tried to do some self-guided hiking at a nearby waterfall called Materuni but were coerced into paying a small amount for a local guide. We sort of understand; when natural points of interest are turned into protected areas, and local people are displaced, the affected communities often struggle to sustain themselves financially, especially when government support is unreliable. The exchange was quite amusing though (in retrospect... in that moment, I was a little pissed off because I really wanted to just do a hike without a chaperone); the negotiation process for the guide fee involved the guy needing to "talk to their chief" to make sure the fee was ok. We actually were accosted about paying for a guide starting from the last five or so kilometers of the drive as two guys on a motorcycle rode alongside us while I was driving. It was a little exhausting but I suppose one gets used to it after some time.
 
-\>
+
 
 ![](assets/img/the-rest-of-tanzania/20240807_154834.jpg)
 
@@ -220,7 +221,7 @@ Mataruni waterfalls. Kevin later dove straight into the water and underneath the
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/the-rest-of-tanzania/20240807_162608.jpg)
 
@@ -232,7 +233,7 @@ Drinking banana beer with the local folks. Banana beer is actually not alcohol. 
 
 Finally, we visited one last park called Rau Forest which was super close to our hotel, nearing bordering, but it took us a good fifteen minutes to figure out how to get there because Google Maps either didn't know about roads or told us to go down non-existent roads. It was pretty useless, but Kevin got pretty good at figuring out the general direction to go and finding the most probable locations where we might be able to cross the river that separated us from the park entrance. Similarly to the waterfall hike, we got asked to pay for a guide, but this time we were prepared. Two ladies, a few years younger than us, accompanied us who were not too chatty but told us some interesting things about the land and its flora and fauna. Towards the end of our hike, one of the women started asking us a little about where we were from and what we did and we learned that the two of them were currently in university, working at Rau Forest over their break and had hopes of trying to break into the tourism industry and become park rangers/guides. It's an admirable and tough goal as we noticed that pretty much no women were safari guides and I can imagine that they have to stand up to substantial cultural pressures to make it. I hope they achieve their goals!
 
-\>
+
 
 ![](assets/img/the-rest-of-tanzania/kilimanjaro_2024-08-27+at+14.51.29+7.jpg)
 

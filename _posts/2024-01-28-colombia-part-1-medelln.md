@@ -2,6 +2,7 @@
 layout: post
 title: "Colombia (part 1: Medellín)"
 date: 2024-01-28
+author: Arathi
 image: "colombia-part-1-medelln/PC230024.JPG"
 ---
 
@@ -13,7 +14,7 @@ First glimpse of Medellín after popping out of the tunnel.
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/colombia-part-1-medelln/PXL_20231222_165537941.jpg)
 
@@ -23,7 +24,7 @@ Must have empanadas, of course!
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/colombia-part-1-medelln/PC220011.JPG)
 
@@ -33,7 +34,7 @@ Sunset in Medellín
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/colombia-part-1-medelln/PXL_20231223_161708071.jpg)
 
@@ -43,7 +44,7 @@ Parque de las Luces used to be the site of one of the most dangerous areas of Me
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/colombia-part-1-medelln/IMG_1452.jpg)
 
@@ -63,7 +64,7 @@ In Medellín, we had our first tastes of beautiful graffiti art (there is so muc
 
 I gotta run now but this was fun! I’ll write more about the other parts of Colombia at another point in time so I’ll fill up some more of this post with more pictures of Medellín.
 
-\>
+
 
 ![](assets/img/colombia-part-1-medelln/IMG_1429.jpg)
 
@@ -73,7 +74,7 @@ Kevin and I from Comuna 13
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/colombia-part-1-medelln/IMG_1445.jpg)
 

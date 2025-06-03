@@ -2,6 +2,7 @@
 layout: post
 title: "Road Tripping around Jordan"
 date: 2024-11-07
+author: Arathi
 image: "road-tripping-around-jordan/wadi_rum_jordan_21.jpg"
 slideshow_images:
   - url: assets/img/road-tripping-around-jordan/amman_jordan_39.jpg
@@ -69,7 +70,7 @@ slideshow_images_6:
 
 We’re on our way to Mumbai now, having departed Jordan early in the morning. It’s not often that I feel a bit melancholy leaving a place because I’m so looking forward to the next one. But with Jordan, as our driver kept saying “welcome to Jordan!” each time we gushed about another sight we enjoyed seeing in Jordan, I felt a bit sad to be leaving even though I am bonkers excited to be spending Diwali in India (a first for me!). I’ll miss the Jordanian hospitality that’s really on another level. I’ll miss visiting Hashem’s restaurant in Amman for cloud-like falafels and olive oil drenched hummus and ful and fatteh, where we ate five times in fewer than that many days (we learned that the owner is now in Bolivian prison for smuggling cocaine so uhhh maybe there was some other special ingredients in that hummus. No wonder it tasted so good). I’ll miss the sassy cats that want attention, but not too much attention, and definitely want food. 
 
-\>
+
 
 ![](assets/img/road-tripping-around-jordan/amman_jordan_19.jpg)
 
@@ -81,7 +82,7 @@ View of Amman, Jordan from the Amman Citadel.
 
 Our time in Jordan was broken up into two parts: for the first two weeks, we spent some time in Amman and then rented a car to drive around the country and visit other cities and sights. For the last week in Jordan, we trekked a section of the epic Jordan trail that began at the Dana Biosphere Reserve and ended by walking through the backdoor of Petra. I'll cover the second part in a second post because it really deserves its own. Visiting Jordan wasn't really on our plan for the year before we started, but like Türkiye, we ended up listening to another _Fall of Civilizations_ [podcast on the Nabataeans](https://open.spotify.com/episode/7Ho575TPrGODG5puISrAcx?si=6qST1mEmTFe1S2IDmcCklA) and decided that we wanted to see Petra, the capital of the Nabataeans and one of the most important trading cities, especially during the Iron Age. At the time, we were melting in Türkiye so we decided that hopping to another Middle Eastern country where temperatures top in the mid-forties during the summer was not the best idea so we skipped it for the summer. We were in the middle of our overlanding trip in Mangystau, just a couple days out from our flight to Amman, when our trip mate Betty managed to get some internet and let us know that Iran had launched missiles at Israel which were flying over Jordan. There were videos coming out from Amman showing the missiles across the night sky and we learned that the Jordan airspace was closed. However, by the time our trip ended in Mangystau, everything seemed like it was back to normal in Jordan with the airspace open. We had been keeping an eye out on any travel restrictions in Jordan from the US State Department but luckily, it continued to remain at Level 2 (where it has been for years) and so we continued our journey onwards. Our flight from Istanbul did take a "scenic route" to avoid flying over Israeli airspace so ended up a bit longer than scheduled, but otherwise, we didn't have any issues.
 
-\>
+
 
 ![](assets/img/road-tripping-around-jordan/PXL_20241010_170429064.jpg)
 
@@ -93,7 +94,7 @@ I thought I disliked kunefe. Habiba’s, serving hot kunefe (on the right) with 
 
 Visiting Jordan during this period of time was an interesting experience. From a tourism perspective, it's very clear that the war has had a devastating impact on the industry. During our first night in Dana, Kevin and I were the only people staying at the hotel. Many other times, it felt like we were one of many two or three other total groups at the hotel. All the sites we visited felt really empty and many shops and restaurants were shut close to the popular sites. We learned from research online that Jordan's tourism industry was especially booming before 2011 and then post Arab-spring, tourism plummeted by around 70 percent. It started to pick back up again towards the latter half of the decade before it was decimated again by COVID. And then started to recover again until October 7th, 2023 when once again, tourists fled. And since then, it hasn't recovered. Our guide, Munthar, from our Dana to Petra trek grumbled that he had switched the dates of the trek from the 24th to the 22nd of October to accommodate a guy from Kuwait but as soon as the missiles flew overhead, the guy canceled the whole trip. Munthar joked that he didn't understand why a Middle Eastern guy would cancel for some missiles as that's just normal stuff around here. We laughed along, but that's devastating to hear as a joke. We felt very safe during our time in Jordan and there were no obvious signs of disturbances in the country due to its neighbors except for one thing: the GPS had been spoofed by the Israeli military so that it looked like you were at the Queen Alia International Airport in Amman. This was especially true close to the border in the Aqaba and Dead Sea area. For some people, it would jump to Cairo. This had been ongoing since October 7th so people in Jordan were used to it to some extent, but it definitely threw off tourists who relied on GPS and Google Maps to get around. Luckily, there's pretty much just three highways in Jordan that run north-south and there are enough signs to point you to how to get on one of the highways or major tourist sites so navigation was pretty easy even without GPS. I was also lucky that my phone, after a few restarts, would sometimes be able to overcome the spoofing at least long enough to get us on the highway so we were able to skirt having any problems without GPS. Also, when it was really bad, we reverted back to our MapQuest era (remember MapQuest?!) by looking up the directions from point to point beforehand, noting any important landmarks to signal turns, and then driving according to the pre-planned route.
 
-\>
+
 
 ![](assets/img/road-tripping-around-jordan/jerash_jordan_18.jpg)
 
@@ -135,7 +136,7 @@ Before we visited Wadi Rum, we made a short one day stop at the southern tip of 
 
 Our last two days on our road trip were spent driving from the Dana Biosphere Reserve up to Madaba and visiting the various churches and sights in Madaba. Driving the King's Highway was such a wonderful experience; the views are really stunning as the highway winds its way through the hills. Thankfully our car did well cruising up the mountains after the engine light came on on our first day with the car. One memorable stop was visiting the totally deserted Sela Castle which was populated as early as the Iron Age by Edomites. After visiting the ruins, we got a bit lost trying to figure out a way through what looked like a solid wall of rock and of course, there were no trails marked on Google Maps or Open Street Maps. Eventually, after some systematic depth first searching, we eventually found our way! 
 
-\>
+
 
 ![](assets/img/road-tripping-around-jordan/dana_to_madaba_kings_highway_5.jpg)
 
@@ -147,7 +148,7 @@ Sela Castle, where we briefly got lost!
 
 In Madaba, we had a bit of a change of culture with the city peppered with tons of churches. The most famous one was St. George's whose floor contains a [mosaic](https://en.wikipedia.org/wiki/Madaba_Map) that is the oldest map of the Holy Land from the 6th century. Seeing that was very cool and also, we visited even more churches with larger and more stunning mosaics, including the Madaba Archeological Park, Apostles Church, St. John the Baptist Roman Catholic Church, and the Church of St. Steven's (located not in Madaba, but in Umm ar-Rasas, another ancient Roman city). The mosaics are so beautiful! Too bad we don't make beautiful floors like this anymore! Our last stop before heading back to Amman was to visit Mount Nebo, which is a place mentioned in the Bible as the location where Moses saw Jerusalem. The summit has a nice church, also with beautiful mosaics, and the top has really lovely views looking out to West Bank. 
 
-\>
+
 
 ![](assets/img/road-tripping-around-jordan/madaba_34.jpg)
 
@@ -159,7 +160,7 @@ One of the many mosaics we saw in gorgeous condition in an old Byzantine Church.
 
 I actually really quite liked Madaba as a town. It felt a little more modern than Amman and we stayed at a great hotel with a young manager who was very easy to talk to and gave us a great recommendation for an amazing meal. We ate at the Carob House and had a meal with beer (gasp!) and had the most amazing _rashtayeh_ (lentils, soft noodles, tamarind-pomegranate molasses, crispy onions, and sautéed garlic and coriander all in a delicious heap), and black seed tahini ice cream on a cookie crumble. Yum! Thinking about it is making me hungry again. And once we returned to Amman, we beelined straight back to Hashem's for falafels and hummus and ful and to Habiba's for hot kunefe which we ate right on the street as it should. I've sworn off falafels and hummus for the rest of the trip, if I can manage, because I think I'll only have sad dry falafels from now on. 
 
-\>
+
 
 ![](assets/img/road-tripping-around-jordan/wadi_rum_jordan_55.jpg)
 
@@ -171,6 +172,6 @@ What I’ll look like when someone serves dry falafels.
 
 Phew, this was a long one (and this is with me glossing over the half dozen or so ancient cities we visited) but it's time to get this published since now we're in Bhutan (yes, it's taken me more than a week but I don't write linearly so I've got a good chunk of the Dana to Petra post written up... to be published another time!). I'll end by one last story which is that we had the cutest, clingiest cat at our last Airbnb in Amman. This cat showed up the day we arrived and would whine and whine at the door (but never came inside!) and so we fed the cat and gave it attention by sitting outside on a little table, doing planning and research outside. It didn't really want pets but it just wanted us to be near. And occasionally would just plop itself right down on my laptop while I was doing something and decide that that was the moment to partake in some self-care grooming. I miss that kitty. And all the other kitties that I couldn't resist petting and cuddling through my entire time in Amman. Kevin has _a lot_ of photos now of me and cats. Probably too many :)
 
-\>
+
 
 ![](assets/img/road-tripping-around-jordan/PXL_20241020_142154432.jpg)

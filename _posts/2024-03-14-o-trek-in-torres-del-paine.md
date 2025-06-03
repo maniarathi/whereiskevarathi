@@ -2,6 +2,7 @@
 layout: post
 title: "O trek in Torres del Paine"
 date: 2024-03-14
+author: Arathi
 image: "o-trek-in-torres-del-paine/P3060438_Original.jpeg"
 ---
 
@@ -9,7 +10,7 @@ For 8 days from the end of February to the beginning of March, we hiked the “C
 
 It’s hard to describe in words how spectacular of an experience it was to hike the circuit. This post definitely warrants far more pictures than words so I’ll add more pictures this time!
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/20240228_091720_Original.jpg)
 
@@ -17,11 +18,11 @@ It’s hard to describe in words how spectacular of an experience it was to hike
 
 We bussed from Puerto Natales to the entrance of Torres del Paine National Park and took another careening bus from the entrance to Laguna Amarga which is the start of the O trek. Above, we are right at the start of the trek and we got our first glimpse of the Torres. It’s a nice teaser of what we’ll see after 8 days!
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/P2280017_Original.jpg)
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/P2280020_Original.jpg)
 
@@ -31,7 +32,7 @@ We also decided to not carry our own sleeping equipment or cooking equipment or 
 
 Our splurge weight item: a bottle of habanero hot sauce which came in handy for some of the more bland dinners and also for scrambled eggs which we had for breakfast 8 mornings in a row.
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/P2290025_Original.jpg)
 
@@ -41,17 +42,17 @@ We saw an unbelievably gorgeous sunrise this morning. I shimmied my way out of o
 
 Day 2 was the longest in terms of mileage (18 kilometres) but wasn’t too long in time as there wasn’t too much elevation gain. We really enjoyed this day of hiking and had some great views of lakes, sweeping vistas, and battled a bit of wind.
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/P2290051_Original.jpg)
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/P2290062_Original.jpg)
 
 Dickson was our favorite refugio. It was located in a picturesque spot (though many of the refugios were because they were located intentionally near water sources). When we arrived, there were horses roaming around freely (the horses are used to carry trash out of the refugios) and I spent a bit of time soaking the sun on some logs while a couple horses munched away on grass right next to my feet. It was unreal and felt like a fairytale.
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/P2290083_Original.jpg)
 
@@ -59,23 +60,23 @@ Dickson was our favorite refugio. It was located in a picturesque spot (though m
 
 The walk from Dickson to Perros was blissfully short and sweet and we arrived at the refugio just as the rain started coming down. The rest time was needed because we knew that day 4 was the hardest of the entire trek, involving a crossing over a mountain pass (John Garner pass) and up to 12 hours of hiking depending on weather… and the weather forecast was not looking good. We’d started poring over weather forecasts each night watching the weather for Day 4 and it was forecasting precip, cold temperatures, and high winds. Not the combo we’d been hoping for :P A few O trekkers decided to power through and skip Perros with the hope of avoiding that bad weather day (we ran into a couple folks later on who successfully accomplished that intense option!).
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/20240301_082537_Original.jpg)
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/P3010127_Original.jpg)
 
 Above is a picture of the Perros glacier which we came upon just a few hundred meters away from the refugio. We had some fun trying to coax a piece of the glacier that was floating the lake to shore… a new sport that I hereby deem “iceberg fishing.” We were successful (I saw we, but really Kevin deserves all the credit for throwing rocks at the iceberg to try to get the resulting ripples to nudge it towards shore. I mostly poked at it with my hiking pole once it was nearby, spearfishing-style).
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/20240301_133233_Original.jpg)
 
 One thing we learned quickly is that there is absolutely no need to carry tons of water on this trek. I had been trained to carry plenty of clean water and on Day 1, carried 2 liters in my camelbak. In reality, there are TONS of fresh water streams where you can just fill up and drink to your heart’s content. The boldest backpackers we saw just carried a cup with them which they filled and drank from every stream they passed. That was a bit too bold for us, so we just started carrying 1 liter or less of water each day and drank from the streams which has delicious icy cold water (even if they sometimes look like grey water!).
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/P3010148_Original.jpg)
 
@@ -83,7 +84,7 @@ Perros was easily our least favorite refugio though the weather definitely did n
 
 Perros is the most remote of the refugios so it had the worst food and accommodations as well. We all mostly ate quickly and early and headed to bed to try to sleep as best we could in the pouring rain. Perros kicks everyone out of the camp at 7:30am in the morning to ensure everyone makes it to Grey, but we got up earlier than that given the weather forecast.
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/PXL_20240301_210450999_Original.jpg)
 
@@ -91,11 +92,11 @@ Perros is the most remote of the refugios so it had the worst food and accommoda
 
 Day 4 was a big day. Although only 15km in length, we clocked in 1061 meters elevation gain and 1516 meters of elevation loss. This was by far the hardest day of the whole trek and our favorite. Ultimately it took us about 10 hours total (including generous breaks) to make it to Grey.
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/P3020163_Original.jpg)
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/P3020168_Original.jpg)
 
@@ -105,13 +106,13 @@ Right when we got to the top of the pass, I took my pack off to grab a second pa
 
 The rain cover story doesn’t end though… a little ways after we had started our descent, a trio caught up to us and lo and behold, they had caught my rain cover!! I’m sitting here quick thankful and I needed to use it again today when we were powering through more rain to get to a bus terminal. I still can’t believe they caught it and kindly carried it so far down!
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/P3020183_Original.jpg)
 
 One of the wonderful things about the downhill is that you get a magnificent view of Grey glacier all the way down. You really get a sense of how massive it is and the mountain backdrop against the glacier is just unbelievable. This part of the trek also showcased 3 huge suspension bridges built over 3 gorges which were really fun to walk across.
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/P3020195_Original.jpg)
 
@@ -121,21 +122,21 @@ At the end of this day, we had completed the “O” part of the trek and were n
 
 Day 5 was a nice chill day to recover from the previous. We only had 3-4 hours of trekking so in the morning, we decided to exercise another body part and went on a kayaking excursion around Grey Lake. This was my first time in a sea kayak and I enjoyed how ridiculous we looked with all the wet suits and spray skirts. I’m more used to kayaking in shorts and t-shirt if I’m honest :)
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/20240303_100807_Original.jpg)
 
 We saw some wildlife (which was actually fairly rare to see in Torres del Paine!) and beautiful landscapes and we took lots of pictures given that the weather was lovely and we were not pressed for time given the short hike.
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/P3030210_Original.jpg)
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/P3030233_Original.jpg)
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/P3030286_Original.jpg)
 
@@ -147,19 +148,19 @@ At the top of the mirador, we got gorgeous views back down to the valley, of the
 
 Francés had by far the best food of the entire trek (at least for vegetarian me). They served stuffed tomatoes with a calafate berry pudding for dessert that I will always remember as the one meal that did not need any hot sauce.
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/P3040320_Original.jpg)
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/20240304_120832_Original.jpg)
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/P3040359+Copy.jpg)
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/P3040364_Original.jpg)
 
@@ -169,17 +170,17 @@ By the end of Day 7, I was definitely feeling my legs. As we approached Chileno,
 
 The weather was absolutely fabulous though and the early hours of hiking boasted (again) stunning landscapes. I had to do a mid-hike full outfit change as the weather really warmed up and switched into shorts and a t-shirt. What a turnaround from wearing a ski jacket, two pairs of gloves, two pairs of pants, a beanie, and more from Day 4!
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/20240305_083438_Original.jpg)
 
 We tried to take a “shortcut” to Chileno directly and unfortunately went down a horse path which means we got attacked by mosquitos. Darn, I thought I was done with the mosquitos after Dickson! Another word of advice: bring bug spray. It was super buggy around the Dickson area and again along the path to Chileno and none of the mini stores in TdP sold bug spray.
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/PXL_20240305_174251507_Original.jpg)
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/P3050403_Original.jpg)
 
@@ -193,15 +194,15 @@ We got to the lake base far too early… I suppose when you can’t take picture
 
 Sunrise was magnificent.
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/P3060408_Original.jpg)
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/20240306_071347_Original.jpg)
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/P3060439_Original.jpg)
 
@@ -209,11 +210,11 @@ After sunrise, we walked back down to Chileno and packed up and slowly made our 
 
 Throughout this entire trek, beyond the wonderful landscapes and features of Torres del Paine, another top highlight was meeting some really cool folks on the trip. We are lucky to have crossed paths with so many wonderful people and having many of them with us for 8 days and 7 nights was an added unexpected bonus.
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/PXL_20240306_174528728_Original.jpg)
 
-\>
+
 
 ![](assets/img/o-trek-in-torres-del-paine/20240306_123104_Original.jpg)
 

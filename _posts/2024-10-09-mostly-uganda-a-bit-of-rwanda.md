@@ -2,6 +2,7 @@
 layout: post
 title: "Mostly Uganda, a bit of Rwanda"
 date: 2024-10-09
+author: Arathi
 image: "mostly-uganda-a-bit-of-rwanda/rwanda_uganda_2024-08-27+at+14.52.48+6-2.jpg"
 slideshow_images:
   - url: assets/img/mostly-uganda-a-bit-of-rwanda/rwanda_uganda_2024-08-27+at+14.52.48+6.jpg
@@ -18,7 +19,7 @@ I've been procrastinating a bit on writing this post because I've been slightly 
 
 We arrived in Kigali, Rwanda from Nairobi and honestly, I was surprised by how modern the city was. We spent the evening at a California-chic cafe where I was able to eat _tofu_, a food I have not seen, let alone eaten since we were in Western Europe. We saw that there were a few other groups at the cafe using the spot as a work cafe; there were two (perhaps Australian based on the accent?) ladies working on a work presentation whom we had to ask to borrow their Deet spray as we were seated in a gorgeous garden outside and mosquitoes were feasting on our exposed skin. The city of Kigali itself reminds me a lot of Medellin; it is sprawled across a mountainous area with modern skyscrapers dotting the crests of the hills. It's a dense city with the roads filled with motorcycle taxis who carry extra helmets for their paying passengers. As we had heard, Kigali is in fact an extremely clean city with little to no trash resting on sidewalks or in the creases of curbs. There are sidewalks. Rwanda also has banned plastic bags since 2008; this was something we were quite nervous about because we heard that there are strict penalties for bringing in plastic bags and we have lots of them to carry spillable toiletries, dirtied hiking shoes, and other random things like a small plastic bag to keep all my jewelry together. We ended up getting rid of all of the extra Ziplocs we had on hand that we keep in case of emergency, but hoped for the best for the ones that we couldn't figure out another method. Ultimately it was fine; I think as long as there isn't an intention to _dispose_ of the plastic bags you bring into the country, you're free to bring them in and then take them out. 
 
-\>
+
 
 ![](assets/img/mostly-uganda-a-bit-of-rwanda/PXL_20240818_100618429.jpg)
 
@@ -32,7 +33,7 @@ After one night in Kigali, we immediately set off for our four day safari with o
 
 The Genocide Memorial was pretty much the only major thing we did in Rwanda. From there, Gard drove us onwards to Uganda close to the Mgahinga Gorilla National Park where we would be trekking the following day to track and view Golden Monkeys. I was very impressed with Gard's driving and his ability to easily switch from the right hand side driving in Rwanda to the left hand side driving in Uganda. In Rwanda, the roads are more like how one would drive in the US with speed limits that drivers are expected to adhere to. In Uganda, the drivers appear not to be trusted with speed limits so the roads are full of speed bumps that force a slow speed. Gard navigated the roads effortlessly (except one blip at the end when he got a bit lost on the last day driving us to the airport in Kigali, but nothing a quick navigation on Google Maps couldn't fix!). The safaris in Uganda/Rwanda are interesting from a pricing standpoint; gorilla trekking permits costs seven hundred US dollars per person in Uganda (fifteen hundred if you decide to do it in Rwanda) so it naturally means that the average client doing this type of safari is well-off and so other aspects of the trip, including accommodation, tend to be quite nice. The permits are so expensive to help curb over tourism; of the thirty-six or so human-habituated gorilla families, eleven are visited by groups of eight tourists for one hour each day. Rwanda has fewer habituated gorilla families so their permits are even more expensive. It is also possible to do gorilla trekking in DRC at a much lower cost (~four hundred dollars per permit) but it also comes with a risk of [getting kidnapped](https://www.lemonde.fr/en/le-monde-africa/article/2024/03/28/drc-people-and-animals-threatened-by-fighting-in-virunga-park_6661928_124.html) so, you know, probably not the best choice.
 
-\>
+
 
 ![](assets/img/mostly-uganda-a-bit-of-rwanda/rwanda_uganda_2024-08-27+at+14.52.49+51.jpg)
 
@@ -44,7 +45,7 @@ Hiking towards the golden monkeys in Mgahinga.
 
 Our first day in Uganda was spent tracking golden monkeys in the Mgahinga Gorilla National Park. Both golden monkey tracking and mountain gorilla tracking work the same way. We and the other clients arrive at the national park early in the morning. Before we arrive, a group of trackers employed by the National Park will head into the mountains to go and find the primate families. They typically have a good sense of where the families are because they keep track of where they were last seen the night before. From that location, they can track food remains, poop, and tracks to figure out what direction the families might have moved overnight. While the trackers are doing that, we first are greeted with song and dance by the local communities who used to live in the national park areas (once an area becomes a national park, people can no longer live there so the government will try their best to support the people who end up getting displaced). Then we get briefed about the rules around visiting the monkeys or gorillas. The rules are all obvious ones with the only slightly interesting one being that everyone needs to wear face masks once we actually see the primates. This is because it is easy to transfer diseases between us and them. Following the safety briefing, all the visitors are divided into groups of eight and each group is assigned a primate family to track, a lead employed by the national park as well as additional trackers who are in communication with the trackers out in the field to figure out where to hike. Then we start walking. I've heard that sometimes the primate families are assigned based on the estimated fitness level of the group so that more fit groups are asked to hike out to the further families but it seemed like it was pretty arbitrary. There's an option of the "African helicopter" where one can be fully carried on a semi-seated-stretcher-like contraption the entirety of the trek and back; it's cool that they've found a way to make the experience accessible for those with more limited mobility and the money goes directly back to the communities.
 
-\>
+
 
 ![](assets/img/mostly-uganda-a-bit-of-rwanda/rwanda_uganda_2024-08-27+at+14.52.48+188.jpg)
 
@@ -54,7 +55,7 @@ Gorgeous forested mountains in the distance.
 
 </figcaption>
 
-\>
+
 
 ![](assets/img/mostly-uganda-a-bit-of-rwanda/rwanda_uganda_2024-08-27+at+14.52.49+43.jpg)
 
@@ -66,11 +67,11 @@ Hiking through what looks like impenetrable brush!
 
 We hiked about two hours to find the golden monkeys. The hike itself was really beautiful with lovely views of the Virunga Mountains, shared by Rwanda, Uganda, and DRC. There are also three inactive volcanoes in the park which our guide pointed out to us as we trekked. We didn't have to do much bushwacking and rather stuck to well trodden trails for the hike which was pretty nice. In what felt like no time at all, we got to the golden monkeys and had a fantastic time watching them fly through the trees! The golden monkeys were really active and mostly high in the trees, nibbling away at something or other. They were really fun to watch and there were more than one hundred in our designated family! It's really incredible to watch their interactions and see the similarities to us humans. Except they way they leap through the trees; that is most definitely very un-human. 
 
-\>
+
 
 ![](assets/img/mostly-uganda-a-bit-of-rwanda/rwanda_uganda_2024-08-27+at+14.52.48+191.jpg)
 
-\>
+
 
 ![](assets/img/mostly-uganda-a-bit-of-rwanda/rwanda_uganda_2024-08-27+at+14.52.48+243.jpg)
 
@@ -82,7 +83,7 @@ Both Kevin and I were very excited for mountain gorilla tracking. A few of the f
 
 A welcoming song performed by a local Batwa pygmy group.
 
-\>
+
 
 ![](assets/img/mostly-uganda-a-bit-of-rwanda/rwanda_uganda_2024-08-27+at+14.52.48+183.jpg)
 
@@ -104,7 +105,7 @@ After watching the gorillas, we headed to a gorgeous area of Uganda called Lake 
 
 We arrived at the lake's edge by car and hopped into a small boat that whisked us away to an island in the lake where our hotel was situated. The lake is incredibly peaceful and beautiful. We had a lovely evening spent on the terrace, staring at the lake while eating dinner with Gard. We exchanged stories about our lives and Gard told us how he's saving up to buy twenty cows so that he can marry his girlfriend. We really enjoyed Gard's company; he was closer to us in age than most other safari guides we've had in the past and I think that helped conversation flow easily. Gard himself is a very social and friendly person, offering to help anyone around (for example, since we had space in our car, he offered the gorilla trackers to hop into our car for a ride to the trail head).
 
-\>
+
 
 ![](assets/img/mostly-uganda-a-bit-of-rwanda/rwanda_uganda_2024-08-27+at+14.52.47+9.jpg)
 
@@ -116,7 +117,7 @@ Lake Bunyonyi. 
 
 The next day we did our final activity which was to canoe around the perimeter of the island in the lake in a Ugandan pirogue with oars that really looked more like spatulas. Gard took an embarrassing video of us completely failing at trying to paddle in a straight line and we nearly gave up getting around the lake when we got to the back side of the island and it felt like we were making zero forward progress against the wind. But we prevailed! We definitely provided some entertainment for the local folks who were either zipping around in their motor-powered boats or professionally handling their own canoe with ease. It was genuinely a lot of fun to paddle around and we got a good workout by the end. Afterwards, we packed up, piled our stuff back into a motor-powered boat that took us back to the mainland (with a brief stop to check out some zebras on a nearby island!). And then we headed to the airport! On the way, we did have one last stop to eat some "rolex" which was one Ugandan food I really wanted to try. This is something I will have to try to make for a quick lunch one day; it's just a thin omelet (add whatever fillings you want) stacked on a chapati and rolled up. You can eat it with a sweet chili sauce or ketchup or just plain. Simple and yummy!
 
-\>
+
 
 ![](assets/img/mostly-uganda-a-bit-of-rwanda/20240821_091519.jpg)
 
@@ -130,7 +131,7 @@ We headed back to the States after this last safari for a wedding and to visit s
 
 And that's it for our Africa leg! What a phenomenal time! I think it will be quite some time before we want to do another safari but we're so thankful to have had such incredible experiences. I just learned yesterday that it was lucky that we were able to go at all because both Rwanda and Uganda have been upgraded to "Level 3: Reconsider Travel" designations by the US State Department due to an outbreak of Marburg virus disease. I hope that the countries are able to contain the virus quickly so that more people can visit these amazing lands.
 
-\>
+
 
 ![](assets/img/mostly-uganda-a-bit-of-rwanda/20240820_064013.jpg)
 
@@ -142,7 +143,7 @@ Kevin took this ethereal photo of the Ugandan mountains!
 
 A fun side note: Chicago O’Hare is one of our favorite airports in the whole wide world. Why? Because they have a Sprinkles cupcake “ATM.” We _always_ get a chocolate cupcake with chocolate frosting to share and the “I love Sprinkles” song gets stuck in our head for days thereafter. It was our special treat for all the red eyes we took when flying from SFO to Columbus, since we would almost always pass through O’Hare around 4 or 5 in the morning and the ATM is located between the main B/C terminals where the big birds fly in (SFO -> ORD) and the dungeon terminals of E/F where the tiny planes get relegated (ORD -> CMH). THEY CHANGED THE ATM LOCATION THOUGH! We didn’t get a cupcake :( But there’s a happy ending to the story which is that we flew through ORD again the following day when we traveled to Montreal after picking up our fancy clothes in Columbus and I hunted down that ATM and we got our cupcake. 10 out of 10.
 
-\>
+
 
 ![](assets/img/mostly-uganda-a-bit-of-rwanda/PXL_20240822_170844208.jpg)
 
