@@ -10,8 +10,8 @@ google-ID: ""
 
 menu:
   - { name: "Blog", url: "index.html" }
-  - { name: "Roadmap", url: "writing.html" }
-  - { name: "About", url: "contact.html" }
+  - { name: "Roadmap", url: "roadmap.html" }
+  - { name: "About", url: "about.html" }
 
 # Customize site text
 pagination:
