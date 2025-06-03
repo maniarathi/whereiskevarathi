@@ -73,9 +73,12 @@ a {
 
 // Images
 img {
-  max-width: 100%;
+  max-width: 70%;
+  max-height: 90vh;
   height: auto;
-  border-radius: 5px;
+  border-radius: 3px;
+  display: block;
+  margin: 0 auto;
 }
 
 // Blockquotes
