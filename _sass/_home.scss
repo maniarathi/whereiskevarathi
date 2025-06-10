@@ -3,9 +3,12 @@
 */
 
 .posts-container {
-  margin-bottom: 5rem;
-  padding: 0px;
-  list-style: none;
+  display: grid;
+  /* Creates two columns of equal width */
+  grid-template-columns: 1fr 1fr;
+  /* Gap between grid items */
+  gap: 5rem;
+  padding: 2rem;
 }
 
 /*
@@ -13,15 +16,34 @@
 */
 
 .thumbnail-container {
-  max-width: 100%;
+  display: flex;
+  flex-direction: column; /* Stack content vertically inside thumbnail */
   overflow: hidden;
   border-radius: 5px;
   margin-bottom: 25px;
+  width: 100%;
+  transition: transform 0.2s ease-in-out;
+
+  /* Initial state for fade-in animation */
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+  /* Add a small delay for staggered effect */
+  transition-delay: var(--delay, 0s);
+}
+
+.thumbnail-container.fade-in-active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.thumbnail-container h2 {
+  text-align: center;
 }
 
 .thumbnail-container img{
-  margin-top: -11.5%;
-  margin-bottom: -11.5%;
+  max-width: 100%;
+  margin-bottom: 1rem;
 }
 
 /*

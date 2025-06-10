@@ -2,22 +2,20 @@
 layout: default
 ---
 
-{% for post in paginator.posts %}
-  <div class="posts-container">
-    <h2>
-      <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
-    </h2>
-    {% if post.image %}
-      <div class="thumbnail-container">
-        <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image }}"></a>
-      </div>
-    {% endif %}
-    <p>
-      {{ post.content | strip_html | truncate: 350 }} <a href="{{ site.github.url }}{{ post.url }}">Read more</a>
-      <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
-    </p>
-  </div>
-{% endfor %}
+<div class="posts-container">
+  {% for post in paginator.posts %}
+    <div class="thumbnail-container">
+      <h2>
+        <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+      </h2>
+      <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image }}"></a>
+      <p>
+        {{ post.content | strip_html | truncate: 350 }} <a href="{{ site.github.url }}{{ post.url }}">Read more</a>
+        <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+      </p>
+    </div>
+    {% endfor %}
+</div>
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.next_page %}
@@ -31,3 +29,36 @@ layout: default
     <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
   {% endif %}
 </div>
+
+<script>
+  // Get all thumbnail containers
+  const thumbnailContainers = document.querySelectorAll('.thumbnail-container');
+
+  // Options for the Intersection Observer
+  const observerOptions = {
+      root: null, // Use the viewport as the root
+      rootMargin: '0px', // No margin around the root
+      threshold: 0.1 // Trigger when 10% of the element is visible
+  };
+
+  // Create a new Intersection Observer
+  const observer = new IntersectionObserver((entries, observer) => {
+      entries.forEach(entry => {
+          // If the element is intersecting (in view)
+          if (entry.isIntersecting) {
+              // Get the index of the element to apply a staggered delay
+              // This assumes elements are in a predictable order in the DOM
+              const index = Array.from(thumbnailContainers).indexOf(entry.target);
+              // Set a CSS custom property for transition-delay
+              entry.target.style.setProperty('--delay', `${index * 0.15}s`);
+              entry.target.classList.add('fade-in-active'); // Add the active class to trigger animation
+              observer.unobserve(entry.target); // Stop observing once animated
+          }
+      });
+  }, observerOptions);
+
+  // Observe each thumbnail container
+  thumbnailContainers.forEach(container => {
+      observer.observe(container);
+  });
+</script>
