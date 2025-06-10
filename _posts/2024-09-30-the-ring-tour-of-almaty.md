@@ -122,8 +122,6 @@ slideshow_images_10:
 
 Per the owner’s request, yesterday we returned our trusty Geely Atlas SUV back to Almaty, directly into a car wash where the attendants immediately got to work scrubbing off the thick crusted layer of dust, dirt, and dung (primarily of the equestrian variety) that even a heavy downpour could not rinse away. I watched in amusement as the attendant repeatedly went over a particularly stubborn section on the back of the vehicle over and over with the power washer while we waited to meet the car rental owner to wrap up the paperwork. Yesterday, we returned back to Almaty after an eight day road trip covering several of the national parks in the Almaty region. I’m really proud of how well Kevin and I managed to piece together this road trip, pulling bits and pieces from various trip reports, blogs, lots of map tools (Yandex Maps, 2GIS, and Google Maps), and plenty of AI tools (I’m a particularly heavy user of Gemini and a bit less of Claude and Kevin uses Gemini, Claude, and a bit less of GPT and some others). The use of AI tools has been one noticeable difference in how we plan our travel from the start of the year to now. I have both the Gemini and Claude apps installed on my phone (though I only pay for Gemini) and use the tools very heavily, usually multiple times a day. Especially in countries where English resources aren’t as readily available or additional time is required to peruse through Google Search results to find an answer, I instead opt to use Gemini to ask things like “why isn’t it advisable to drink the tap water in Kazakhstan?” or “At Amboseli National Park, there was a particular kind of white bird that always trailed after elephants and ate food that would get unearthed when the elephants pawed at the earth. What type of bird is it?” Randomly, I learned that giving greeting cards is not popular throughout this planet; I wanted to send greeting cards for special occasions while we were in Turkey and most recently in Kazakhstan and in both countries, cards are not a thing. Gemini came to the rescue to help find places that sell something that is pretty close to a greeting card (in both cases, the “cards” don’t really open… it’s more like a glorified postcard) when Google Maps failed me. Watching us use these AI tools more and more makes me sort of wonder how working might be different when we re-enter the workforce in a few months. When we left our jobs, the tools we used were more for curiosity than for real purpose but in our current daily lives, that seems to already change. I’m sort of amazed by it because we’re changing even though we’re not in the middle of it all the way we used to be; I’d have assumed we would be a bit slower on the uptake given our distance from where it all is happening in the US and western Europe.
 
-
-
 ![](assets/img/the-ring-tour-of-almaty/20240914_211729.jpg)
 
 <figcaption>
@@ -134,8 +132,6 @@ Anyone want a MateBook Pro?
 
 Anyways, I digress :) We flew to Almaty in the more central area of Kazakhstan after returning from Burabay. We spent the first three days doing a bit of road trip planning and also visiting sites in the city. The city of Almaty feels much more like a Western European city; it’s less intentionally symmetrical than Astana giving it a warmer feel, there are parks with playgrounds, art, and memorials dotted around the city. While we were there, just outside of our apartment, there was a “bookfest” ongoing where Kazakhstan literature was being celebrated. There were tons of small stalls selling/giving away books, lots of food stalls (including stalls that were spinning candy floss into spheres as large as both mine and Kevin’s heads put together), and live music. The festival was massive, spanning several blocks of the city with a few large stages set up in the middle of the roads. We saw one of the stages had a young English-speaking presenter who was talking about “life in America” to a swath of eager listeners, the majority of whom expressed interest in one day attending a US university. I found the presenter’s particular choices about what to describe as “American life” to be funny, ranging from the “ugly sweater” contests during Christmas time to “Field Day” in elementary school. I had honestly forgotten about “Field Day” altogether from my tiny-Arathi days!
 
-
-
 ![](assets/img/the-ring-tour-of-almaty/P9150024.jpg)
 
 <figcaption>
@@ -144,8 +140,6 @@ We went to a museum in Almaty called the Museum of Musical Instruments. They had
 
 </figcaption>
 
-
-
 ![](assets/img/the-ring-tour-of-almaty/PXL_20240915_131739411.jpg)
 
 <figcaption>
@@ -153,8 +147,6 @@ We went to a museum in Almaty called the Museum of Musical Instruments. They had
 It looks like a fairy tale castle with a fairy tale coach approaching it, but in the background in the Russian Orthodox Church.
 
 </figcaption>
-
-
 
 ![](assets/img/the-ring-tour-of-almaty/PXL_20240915_104926699.jpg)
 
@@ -170,13 +162,11 @@ We visited a few other sites around the city, including a beautiful Russian Orth
 
 Almaty is nestled at the foot of several mountains which means that a) we woke up to gorgeous views of the snow-capped mountains every morning and b) we got to go visit them! We visited a hill that is serviced by a long gondola ride that had stunning panoramic views of the mountains in the distance. The top of the hill is also a sort of kid “fun zone” with a ferris wheel, mini roller coaster, bumper cars, and more. We went on the rollercoaster! We visited a ski resort, Shymbulak, on our third day in Almaty where we took three gondolas to get to the topmost skiing area (there is no active skiing at the moment because it’s too early) and went out hiking further into the mountains. The trail was a bit trickier than we imagined with lots of scrambling and not very clearly marked trials. Part of the issue was that some parts of the trail were covered with snow which we tried to skirt around (no crampons on hand). Another bigger issue was that it started snowing pretty heavily. Before it got too bad though, we got some beautiful dramatic views of the mountains all around us. We met three guys from Holland towards the point when we decided to turn back who had hiked out with Kazakh hats and jackets. Those three guys turned around a bit earlier than us and it was helpful to be able to watch them descend because as we made progress, the snow got heavier and heavier and visibility massively decreased. By the time we reached the trailhead, we could barely see a hand out in front of us and we used the club-like Kazakh music blasting out from top of the gondola to help us identify the direction back to the gondola. We were both a bit wet and after two gondolas down, we stopped at a little French bakery/cafe to warm up with some hot cocoa.
 
-
-
 ![](assets/img/the-ring-tour-of-almaty/P9160057.jpg)
 
 <figcaption>
 
-The view of Almaty from the top of the gondola. 
+The view of Almaty from the top of the gondola.
 
 </figcaption>
 
@@ -185,8 +175,6 @@ The view of Almaty from the top of the gondola. 
 **Day 1: Almaty -> Nomad movie set -> Basshi**
 
 And then we started on our trip! Day one was pretty relaxed. On our first pass of planning this road trip, we had scheduled a bunch of activities on this first day but thankfully revised to allow for more time with getting the car and groceries and whatnot. In one of my previous blog posts, I mentioned that we were planning on hiring a guide to drive us around because we thought that we couldn't drive in Kazakhstan. Kazakhstan is one of the few countries that actually seems to require an International Driving Permit, sort of. The whole thing around an IDP is sort of weird; it's essentially a glorified booklet that has your license translated into a bunch of languages and has been notarized. We tried getting our IDPs in New York but unfortunately were not able to because we have Canadian driving licenses and in the US, only US licenses can get the IDP. We briefly thought about traveling to Toronto from New York to get the IDPs instead but we had already booked our flights to Astana by the time we realized we couldn't get our IDPs and we didn't want to miss the Nomad Games. We found out through extensive searching on Reddit that it might be possible to instead have our licenses translated to Russian once we arrived in Kazakhstan and then have the translations notarized. We asked a few car rental companies whether that would be fine and most said yes and a few said no, we needed the IDP. So we picked a car rental company that said yes, got our translated and notarized licenses and proceeded. We found out later that there's an online scam company that "makes IDPs" and apparently that's totally fine too. Most police officers here have never seen an IDP before so can't distinguish between what is a real thing and not, but the important element is that they need to be able to read your license and check that it is valid, thus the Russian translation. Police corruption is also rampant here so it's not uncommon to get pulled over for a trivial/random thing and then be asked to pay a bribe. We were lucky not to ever have that issue at all. In any case, in the areas we were driving, it would be miles and miles before we'd even see another car.
-
-
 
 ![](assets/img/the-ring-tour-of-almaty/PXL_20240918_103952889.jpg)
 
@@ -202,8 +190,6 @@ Our first stop was a completely random stop at an old movie set in the middle of
 
 The movie set was situated on the bank of a reservoir and we wanted to get over to the other side to check out some petroglyphs but it turns out, getting to the other side would add a substantial amount of driving. Since getting the car and groceries took a bit longer than expected, we decided to go straight from the movie set to our first destination which was Baashi, a hamlet just outside of Altyn-Emel National Park. Here, we settled into our spacious yurt for the night. The campsite was really nice; the kitchen was well-stocked, the showers were very clean, hot, and had excellent shower pressure. They had some cats including one sad sick kitty who hung around for some cuddles. I melt a little every time a cat purrs.
 
-
-
 ![](assets/img/the-ring-tour-of-almaty/PXL_20240918_132538069.jpg)
 
 <figcaption>
@@ -218,8 +204,6 @@ Day two was the first real test of our car. We decided to go for an SUV rather t
 
 It is totally deserted out here! It's just miles and miles of gorgeous red and white candy cane mountains. We hiked along a ridge trail for some ways (no AllTrails here!) until it deposited us at a lovely viewpoint and we couldn't see a way to hike any further. We did see a couple more cars but only one group of three people who we saw doing a sketchy-looking hike up one of the mountains (they had a guide with them). This area is definitely a place where you're free to sort of explore as you wish and we were able to make a sort of loop trail from the viewpoint, connecting back to a dry streambed to get us back to the parking area. Just stunning, stunning landscapes!
 
-
-
 ![](assets/img/the-ring-tour-of-almaty/P9190051.jpg)
 
 <figcaption>
@@ -232,8 +216,6 @@ A panorama of the Aktau Mountains.
 
 We drove next to the nearby Katutau mountains where there weren't really any proper trails but instead we just wandered out a little to some nearby viewpoints to enjoy some homemade trail mix. Both the Aktau and Katutau mountains were formed by volcanic activities and at Katutau, we could see the weird amorphous shapes that the volcanic activity had created. Supposedly there were some petroglyphs there but we couldn't find any and we knew from our time in Rapa Nui that sometimes it's really hard to see faded petroglyphs without optimal lighting (usually sunrise light that shines on the petroglyphs at an angle).
 
-
-
 ![](assets/img/the-ring-tour-of-almaty/P9190078.jpg)
 
 <figcaption>
@@ -243,8 +225,6 @@ Katutau.
 </figcaption>
 
 We returned back to the campsite, with a stop at a seven hundred year old willow tree that was absolutely not worth it because we both got destroyed by mosquitoes that were in that wet area in the five minutes that we spent finding and looking at the tree. We switched to sleeping in an RV for the night (the yurt was booked) and chatted with another visitor from Malaysia who was vacationing with a couple other friends.
-
-
 
 ![](assets/img/the-ring-tour-of-almaty/PXL_20240919_123424946.jpg)
 
@@ -256,13 +236,11 @@ Got into a bit of a traffic jam on the way back to Basshi.
 
 **Day 3: Basshi -> Altyn-Emel National Park (Singing Dunes) -> Chundzha Hot Springs**
 
-We had a second day in Altyn-Emel visiting a different part of the park that is actually the more common tourist attraction because it has fewer kilometers of gravel roads to navigate. The Singing Dunes are huge quartz sand dunes that we hiked up and with some beautiful views of the Ili River beyond. These dunes are very similar to the ones we hiked up in Namibia, though much smaller. In a crazy coincidence, while we were hanging out at the top of the dune, a guy who had just climbed up said, "hey, you're from Canada right?" Turns out, these were the same guys from Holland that we had met at in Shymbulak! I guess when the country has so few tourists, you're bound to meet the same people at all the popular sights! We hung out with them for a bit and then decided to try exploring some of the other dunes so we continued to hike until we were tired of hiking in sand (sand hiking is tiring!) and the sand was getting too hot for our bare feet. And then, per usual, found the steepest slope and sprinted down to the bottom. One of my favorite things to do! 
+We had a second day in Altyn-Emel visiting a different part of the park that is actually the more common tourist attraction because it has fewer kilometers of gravel roads to navigate. The Singing Dunes are huge quartz sand dunes that we hiked up and with some beautiful views of the Ili River beyond. These dunes are very similar to the ones we hiked up in Namibia, though much smaller. In a crazy coincidence, while we were hanging out at the top of the dune, a guy who had just climbed up said, "hey, you're from Canada right?" Turns out, these were the same guys from Holland that we had met at in Shymbulak! I guess when the country has so few tourists, you're bound to meet the same people at all the popular sights! We hung out with them for a bit and then decided to try exploring some of the other dunes so we continued to hike until we were tired of hiking in sand (sand hiking is tiring!) and the sand was getting too hot for our bare feet. And then, per usual, found the steepest slope and sprinted down to the bottom. One of my favorite things to do!
 
 {% include slideshow.html images=page.slideshow_images_5 %}
 
 We made our way back to Basshi and from there, continued our ring tour to a resort to enjoy the Chundzha Hot Springs, where we found all the Kazakh and Russian tourists. Sort of similar to Albania, on the hiking trails in Altyn-Emel, we encountered few local hikers. They are almost all international visitors. I guess long hiking is not much of a pastime for Kazakh people, just as it wasn't for Albanians, even with such beautiful (if arduous) trails around. The resort was _packed_. I thought they might have been lying when they told me they only had one room left when I WhatsApp'ed them earlier to book a place. But no, the place was full with tons of visitors (probably especially busy because it was the weekend). Kids and adults alike enjoyed the warm pools (they were more like large swimming pools with spring water piped in) and people brought half a house's worth of supplies with them including groceries, hookahs, lots of alcohol, and boomboxes loud enough to rival the resort's own. I swear, it seems like all Kazakh music is just club music. We had a great time at the pools though, floating and bobbing around. And dinner was delicious (a gracious Russian tourist helped translate my vegetarian dietary restriction to the befuddled chef).
-
-
 
 ![](assets/img/the-ring-tour-of-almaty/20240921_092139.jpg)
 
@@ -276,8 +254,6 @@ A very strange set of sculptures at the hot springs.
 
 We headed towards Charyn Canyon the next day which gives off Grand Canyon-esque vibes, though it is much much smaller. It has a similar reddish glow and was carved away by a tributary of the Charyn River. Some of the stone wall tops have been eroded away (my guess is wind erosion, but I'm not sure) to resemble the hoodoos in Bryce Canyon National Park. The most famous hike to do is the Valley of the Castles hike which runs through the floor of the canyon. We managed to do a hike along the rim of the canyon that descended down into the valley and then took the Valley of the Castles trail back to the visitor center to make a loop. We contemplated trying to see some of the other canyons in the area, but we realized that we would need a proper offroading vehicle to get to those areas; the paths are not paved and are loose gravel that descend straight down into the canyon. We weren't worried about getting down to the canyon, but rather nervous about coming back out. I'm pretty confident we would have gotten our vehicle stuck in the bottom of a canyon if we had tried and that would have put a bit of a damper on the trip.
 
-
-
 ![](assets/img/the-ring-tour-of-almaty/P9210015.jpg)
 
 <figcaption>
@@ -286,13 +262,11 @@ Charyn Canyon.
 
 </figcaption>
 
-Charyn Canyon had the most tourists out of any place we had been thus far. Once we were a ways out on the trail, the crowd all but disappeared and we were able to get some quality hiking time in. On the way back, we got caught in a bit of rain but after sheltering in a small man made cave for a few minutes, the rain dissipated and we continued our hike. Continuing along the theme of Kazakhstan being a really friendly and welcoming place, as we were hiking, a van sped by transporting some other visitors to the trailhead and a teenage girl stuck her head out the window and yelled at us, "WELCOME TO KAZAKHSTAN!" 
+Charyn Canyon had the most tourists out of any place we had been thus far. Once we were a ways out on the trail, the crowd all but disappeared and we were able to get some quality hiking time in. On the way back, we got caught in a bit of rain but after sheltering in a small man made cave for a few minutes, the rain dissipated and we continued our hike. Continuing along the theme of Kazakhstan being a really friendly and welcoming place, as we were hiking, a van sped by transporting some other visitors to the trailhead and a teenage girl stuck her head out the window and yelled at us, "WELCOME TO KAZAKHSTAN!"
 
 {% include slideshow.html images=page.slideshow_images_6 %}
 
 A gorgeous rainbow came out just as we reached the end of our hike. A huge, full rainbow that made me wish for my wide angle lens again (ooh another aside: while I was briefly back in Ohio, I sent my lens back to Olympus for repair and I found out a few days ago that because it was under warranty, they just sent back a full replacement so I can use it again if I want. I might resell it though because having four lenses seems like a lot of lenses for someone who only recreationally photographs and the wide angle is very much a specialty lens). We splurged a little (well, splurged in terms of cost of things in Kazakhstan) on a cabin situated right at the base of the canyon for the night. It was a really spacious and comfortable cabin with a balcony looking out onto the beautiful national park lands.
-
-
 
 ![](assets/img/the-ring-tour-of-almaty/P9210056.jpg)
 
@@ -306,8 +280,6 @@ We had an absolutely magical time walking out to the rim and onto some outcroppi
 
 After checking out, we continued our tour, taking a brief stop at the nearby Black Canyon. We pulled off on the side of the road where a couple other cars were parked and where Google Maps declared to be the viewpoint and had some lovely views of the canyon. It turns out, we were at the wrong place and a few hundred meters of driving later, we found a proper parking lot with food stalls and a washroom. Ironically, the view wasn't as good here in my opinion. We also saw a _huge_ youth group swarming around the view point. We pulled into this parking lot, but were more entertained by the youth group and their various chanting and photo taking and then the incessant honking of the eight or so giant motorcoaches to coax the teenagers back on the bus.
 
-
-
 ![](assets/img/the-ring-tour-of-almaty/20240922-P9220030.jpg)
 
 <figcaption>
@@ -318,13 +290,9 @@ Black Canyon.
 
 We continued our road trip down to Lake Kaindy. We knew that we wouldn't be able to get to the lake in our non-4x4 crossover car, so the common thing to do is to find a Soviet era van vehicle in the village of Saty (a UAZ-452 van) and pay the driver a sum to drive you to the lake, wait for some time (our driver waited for an hour and a half), and then drive you back down to the town. The van does not look like it can handle crazy cratered roads with stream crossings, but that thing crushed through the terrain. It has a nickname: "buhanka." It means "loaf of bread." If you check out the picture, the likeness is unmistakable.
 
-
-
 ![](assets/img/the-ring-tour-of-almaty/20240922-P9220051.jpg)
 
-We shared a van with another family who happened to reach the entrance to the gravel road at the same time as us. After reaching the main parking lot, we needed to take a second van to get to the actual lake which didn't have any main parking. The lake is quite a unique one; it's a very new lake created in 1911 that formed when a landslide created a natural dam and the water pooled together in the valley, submerging and killing the trees in the area. It's really weird and cool to see the dead spruce trees jut out of the bright turquoise water. 
-
-
+We shared a van with another family who happened to reach the entrance to the gravel road at the same time as us. After reaching the main parking lot, we needed to take a second van to get to the actual lake which didn't have any main parking. The lake is quite a unique one; it's a very new lake created in 1911 that formed when a landslide created a natural dam and the water pooled together in the valley, submerging and killing the trees in the area. It's really weird and cool to see the dead spruce trees jut out of the bright turquoise water.
 
 ![](assets/img/the-ring-tour-of-almaty/20240922-P9220046.jpg)
 
@@ -346,8 +314,6 @@ The hike itself was pretty nice; the only sort of less nice thing about the trai
 
 We had a bit of a situation at the start of the hike though. There was an adorable dog roaming around the trail start who decided that he wanted to go on the hike with us. The only issue was that he was injured! He had a gnarly gash in one of his paws and was hopping on three feet trying to follow us. We didn't want to continue to have him try to come along with us while he was in such a state. We tried to turn around and walk back but as soon as we thought we lost him, he'd come bounding back. At one point, he dashed into the lake for both a drink and to sooth his bleeding paw. We met another Russian couple a bit along the trail and with all of us we took him back to the trailhead to figure out who he belonged to. It was pretty clear he wasn't a stray because he was quite clean and also looked well-fed. Eventually, while Kevin and the Russian couple went to hunt down the owner, I stayed with the dog and ran into another two tourists from India who started to feed him some of their extra food. Kevin came back and said that the Russian couple was able to communicate with some random folks who said that his owner is not around right now and the dog just hangs around the area and usually follows for about a half hour and then will turn around. He also mentioned that the dog has been injured for a little while but the owner doesn't really want to do anything about it and there aren't really any pet centers in the area. The poor dog! Thankfully, he was distracted enough by the food that we were able to sneak away and restart our hike without him following. He was lounging by the lake when we returned and gave him some cuddles before we headed back to our abode for the night.
 
-
-
 ![](assets/img/the-ring-tour-of-almaty/20240923_095930.jpg)
 
 <figcaption>
@@ -363,8 +329,6 @@ Originally, our plan was to drive to Turgen Gorge this day and then do a sixteen
 {% include slideshow.html images=page.slideshow_images_9 %}
 
 From the lake, we drove to our final homestay in Turgen Gorge. After being warmly welcomed by our lovely host Nataly, we explored the grounds which actually were really nice and peppered with apple trees. I ate some small tart apples. We befriended another animal, one of the lodge's cats, who trailed us around, purring whenever we stooped to pet her. We eventually meandered back to our room (which was an excellently equipped small room with lots of thought put into all the basic items that folks like us would need... dish soap, a microwave, cutlery, two each of bowls, plates, and cups, and a sharp cutting knife and board) and turned in for the night.
-
-
 
 ![](assets/img/the-ring-tour-of-almaty/20240925_090304.jpg)
 

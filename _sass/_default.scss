@@ -159,3 +159,35 @@ figcaption {
   line-height: 1.4; /* Improve readability */
   text-align: center;
 }
+
+/*
+  Videos
+*/
+.video-wrapper {
+  text-align: center; /* Centers inline-block children */
+}
+
+.video-wrapper figure {
+  margin: 0 auto;           /* Centers the figure itself if it has a width */
+  display: inline-block;    /* Allows text-align: center on parent to work */
+  max-width: 70%;
+  max-height: 90vh;
+  height: auto;
+}
+
+.video-wrapper figcaption {
+  font-size: 0.9em; /* Smaller font size relative to parent */
+  color: #666; /* Lighter color */
+  padding: 0px 10px 30px;
+  line-height: 1.4; /* Improve readability */
+  text-align: center;
+  margin-top: 15px;
+}
+
+/* Optional: Make videos and iframes responsive */
+.video-wrapper video,
+.video-wrapper iframe {
+  display: block;           /* Ensures it behaves as a block element for sizing */
+  max-width: 100%;          /* Makes sure it shrinks on smaller screens */
+  height: auto;             /* Maintains aspect ratio */
+}
