@@ -146,7 +146,17 @@ In addition to coffee, we were also served sweetened black tea (this time, extre
 
 After dinner and playing some cards for a little while (Maria and Christian taught us a fun game called “Up and Down the River”), we were ushered outside towards a small fire that had been lit to watch “a dance.” Color me intrigued! We huddled around the fire and the men sang us a song while they rocked from side to side and clapped . We enthusiastically clapped along and my only regret was not joining them while attempting to enunciate the Arabic syllables. After the dance (not sure what the meaning of the dance was), we continued chatting away while Munthar translated. These hosts were really an absolute joy to hang out with. They got such a kick out of saying “AHR-RAR!” every time we were asked anything. What type of wood was burning in the fire? AHR-RAR! Though turns out that was the correct answer! They got a kick out of us being absolutely horrified by the amount of sugar they claimed to consume each month. It got wilder and wilder until one of the hosts claimed FIFTY KILOGRAMS A MONTH! He wins. I’m still petrified for their health. Eventually the fire gave out an almighty crackle that had us all scrambling so we called it a night and turned into our comfy individual cabins for a solid night’s rest. I think I’m getting pretty good at sleeping even with caffeine in my body.
 
-A dance by the campfire.
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/petra-through-the-backdoor/campfire_dance.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption class="video-caption">
+      A dance by the campfire.
+    </figcaption>
+  </figure>
+</div>
 
 **Day 4**
 

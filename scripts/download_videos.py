@@ -2,13 +2,11 @@ import yt_dlp
 import os
 
 video_links = [
-    "https://video.squarespace-cdn.com/content/v1/65568ba172adb3569940fea7/ca178815-ee55-4004-bb7c-fa2e3f325fe6/playlist.m3u8",
-    "https://video.squarespace-cdn.com/content/v1/65568ba172adb3569940fea7/e06c714a-1b1e-4ff3-ac39-f3c25d953078/playlist.m3u8",
+    "https://video.squarespace-cdn.com/content/v1/65568ba172adb3569940fea7/10d44db7-808f-4de9-8347-882724a4e18a/playlist.m3u8",
 ]
 
 video_names = [
-    "bhutan_traffic",
-    "bhutan_archery",
+    "uganda_baby_gorilla",
 ]
 
 for i, video_url in enumerate(video_links):

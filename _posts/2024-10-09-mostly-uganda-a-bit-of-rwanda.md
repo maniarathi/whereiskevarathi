@@ -65,11 +65,31 @@ We hiked about two hours to find the golden monkeys. The hike itself was really 
 
 Our hour passed in a snap and we headed back to the entrance. We passed through a really lovely bamboo forest area and managed to do a sort of a loop so that we didn't have to go exactly back the way we came. Apparently finding the monkeys in about two hours was really fast and we were the first group back; all the safari drivers were off somewhere chilling and when we returned to the parking lot, we all were sort of wandering around trying to find our drivers and guides. Because we finished so quickly, we ended up having a fairly relaxed evening at our hotel which was good because we had an early start the next day.
 
-Kevin took this amazing video of the golden monkeys leaping through the trees!
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/mostly-uganda-a-bit-of-rwanda/golden_monkeys.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption class="video-caption">
+      Kevin took this amazing video of the golden monkeys leaping through the trees!
+    </figcaption>
+  </figure>
+</div>
 
 Both Kevin and I were very excited for mountain gorilla tracking. A few of the folks whom we hiked with for golden monkey tracking told us a bit about their experience with the gorillas (they were starting their safari from Kampala instead of Kigali) and it sounded just incredible. I really appreciated Gard's attentiveness to making sure we always got to places either on time or early. We were some of the first ones ready to go at Bwindi Impenetrable Forest National Park. It made for a relaxing experience with plenty of time to prepare ourselves before we got started hiking. This hike ended up being kind of funny. We first drove to a different trailhead away from the national park entrance. We lingered around the trailhead for quite some time because there were two possible paths we could have taken but the trackers weren't sure which one to take. Part of the reason was because there was poor cellphone connection between the trackers in the field and the trackers with us. Another was that (and we found this out later) the gorilla family was on the move so they were rapidly changing their position. We waited around so that we'd have more certainty about which direction to go instead of tracking down one path and then backtracking to go a different way. I'm not sure how long we waited but eventually, we started going up one of the paths. This trek was a bit more challenging; they don't call it the "Impenetrable Forest" for nothing! There was still a visible trail but the leads out in front had to do a bit more whacking of the bushes and vines with their machetes. It was occasionally steep but at least it hadn't rained too much so it wasn't too muddy or slippery. We ended up not hiking very far before we paused again. Once again, the trackers with us were trying to figure out where the gorillas were headed. After another length of time, they had us turn back a few paces, take a right turn directly into the bushes and voila, there they were! We really only ended up actively hiking, maybe, around thirty minutes or less.
 
-A welcoming song performed by a local Batwa pygmy group.
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/mostly-uganda-a-bit-of-rwanda/batwa_welcome.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption class="video-caption">
+      A welcoming song performed by a local Batwa pygmy group.
+    </figcaption>
+  </figure>
+</div>
 
 ![](assets/img/mostly-uganda-a-bit-of-rwanda/rwanda_uganda_2024-08-27+at+14.52.48+183.jpg)
 
@@ -81,7 +101,17 @@ The Bwindi forest is really lush and beautiful. Impenetrable indeed!
 
 It really was such a cool experience to view these mountain gorillas. We saw a family of eight: one silverback (the alpha male), three adult females, three adolescents, and one baby. Most of the time, the gorillas were on the ground eating. The baby was hilarious to watch as he was the most active of all the gorillas and Kevin managed to take a great video (below!) of the baby accidentally falling out of a tree! Also, Kevin got pushed by one of the gorillas! We were watching a small group in front of us feed and a little while later, we heard a voice saying "there's a gorilla behind you." I turned around just in time to see a female gorilla, who was feeding behind us, decide to join the main group that we were watching in front of us and I managed to step out of her path just in time. Kevin was a little more in front of me and turned around only just enough to see there was a gorilla on his tail without any time to react. The gorilla gave him a big shove and continued her direct path to the group! Boy, I wish I had my video setting on to capture the moment. I was laughing so hard and Kevin looked so startled for a second. She definitely gave him a good push! At least it wasn't the silverback that shoved Kevin out of the way!
 
-Baby gorillas falls out of the tree! PC: Kevin.
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/mostly-uganda-a-bit-of-rwanda/baby_gorilla.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption class="video-caption">
+      Baby gorillas falls out of the tree! PC: Kevin.
+    </figcaption>
+  </figure>
+</div>
 
 One interesting thing to watch was how the trackers communicated with the gorillas. Occasionally the silverback would grunt a bit and the trackers grunt back at an equal strength. My basic understanding is that it was a way to communicate in familiar terms to give a sense of security to the gorillas and prevent any aggression. To habituate a gorilla family for human visitors takes about two years and even after we left, a few trackers stayed behind and continued to track them over the course of the day. They even have veterinary centers to take care of gorillas in case they get hurt or ill. Because of their conservation efforts, the number of mountain gorillas is rising and moving in a positive direction away from the endangered species designation, now totalling more than one thousand.
 
