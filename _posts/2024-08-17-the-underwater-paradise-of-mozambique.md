@@ -44,7 +44,17 @@ Then the exit procedures. Maybe around 100 meters from shore, after we had finis
 
 Tofo feels like an up and coming place for tourism. We saw tons of active building development and a growing number of vacation rentals that are right on the beach. We ended up extending our time in Tofo and reducing our time in Vilanculos, another beach town further north in Mozambique, because a) we still were recovering from the anti-malaria pills and scuba course and b) we wanted to try to do an “ocean safari” to see whale sharks that hung around in Tofo, but not further north. There is one “supermarket” in Tofo where we stocked up on packaged items like butter, drinking water (the water that comes out of the taps in Mozambique is brown. Very brown. But somehow safe enough to brush ones’ teeth!), and condiments. There is another outdoor market area with stalls selling fruit and veg and other tchotchkes like hats and coverups. Kevin, multiple times, got asked if he wanted to buy a whole fish that was lying in the seller’s bucket. Good price, they claimed!
 
-This bird was trying so hard to get into our Airbnb! He would diligently be hammering away at the window every morning. I hope his beak is ok!
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/the-underwater-paradise-of-mozambique/knock_knock.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption class="video-caption">
+      This bird was trying so hard to get into our Airbnb! He would diligently be hammering away at the window every morning. I hope his beak is ok!
+    </figcaption>
+  </figure>
+</div>
 
 We got really lucky with one rental we stayed at that I cannot recommend enough called [Pura Vida](https://maps.app.goo.gl/qktL4jP6KDaFC2369?g_st=com.google.maps.preview.copy). The top floor is the bedroom and every morning when we woke up, we’d have unobstructed views of the ocean and sunrise as it faced due east. We went to bed every night with the calming sound of the ocean and we especially loved the indoor-outdoor feel of the place; the bottom floor’s glass wall could be fully folded in to connect the kitchen, dining area and living area with the outdoor patio. There was an outdoor shower as well and we were lucky to have a full moon beautifully shining overhead. This time of year the humpback whales are migrating northward with their calves and we could often spot them directly from our living room, aided with our binoculars. The calves are very active and playful and we spotted them frequently breaching and spouting. After 31 years of not seeing a single whale, I got to see so many! And babies at that!
 
