@@ -125,7 +125,7 @@ Our second day was filled with more horseback games. We saw Turkish-style horseb
 <div class="video-wrapper">
   <figure class="video-figure">
     <video controls>
-      <source src="assets/img/the-5th-world-nomad-games-astana-kazakhstan/horseback_archery.mp4" type="video/mp4">
+      <source src="assets/img/the-5th-world-nomad-games-astana-kazakhstan/horse_archery.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <figcaption class="video-caption">
@@ -139,7 +139,7 @@ We watched the tail end of horseback wrestling this day and also had some fun ro
 <div class="video-wrapper">
   <figure class="video-figure">
     <video controls>
-      <source src="assets/img/the-5th-world-nomad-games-astana-kazakhstan/horseback_wrestling.mp4" type="video/mp4">
+      <source src="assets/img/the-5th-world-nomad-games-astana-kazakhstan/horse_wrestling.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </figure>

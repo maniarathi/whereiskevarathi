@@ -143,6 +143,15 @@ In any case, we did see a small herd (again, to me, it seemed big) of some thous
 
 {% include slideshow.html images=page.slideshow_images_3 %}
 
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/the-rest-of-tanzania/wildebeest_herd_running.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </figure>
+</div>
+
 On our last day in the Serengeti, we saw something that Emanuelle said is so rare that he sees it roughly every two years even with the number of safari trips he does every month. We were tracking down a lion and saw it sort of alert in the grass. As we watched, the lion started walking. Then jogging. At this point, Kevin and I were both thinking, oh wow, we've never seen a lion jog, that's cool! A second later, the lion is in an all out sprint and we hear squealing and we realized what was happening: it found food. Even as I write this and remember watching the chase, I can feel my heartrate quicken a little. It was something else to watch both the lion and warthog sprint through the grass at full speed, right behind our vehicle across the car path before the lion caught the warthog and suffocated the poor warthog until he was dead. Noooo, not Pumbaa!
 
 ![](assets/img/the-rest-of-tanzania/tanzania_safari_2024-08-27+at+14.49.13+183.jpg)
@@ -205,7 +214,7 @@ Mataruni waterfalls. Kevin later dove straight into the water and underneath the
 
 <figcaption>
 
-Drinking banana beer with the local folks. Banana beer is actually not alcohol. Banana wine, which we bought one bottle of, is highly alcohol. As alcohol as actual wine. I can't say I took to either much.
+Drinking banana beer with the local folks. Banana beer is actually not alcoholic. Banana wine, which we bought one bottle of, is highly alcoholic. As alcoholic as actual wine. I can't say I took to either much.
 
 </figcaption>
 
