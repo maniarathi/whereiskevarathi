@@ -344,4 +344,14 @@ It was around 3 or 4pm or so by the time we finished our hike so we headed back 
 
 What a great trip! We are so glad that so many things fell into place nicely to be able to do this trip on our own. Kazakhstan really has some spectacular landscapes and hikes even if Kyrgyzstan is more well known for their outdoorsy activities. And now, we're in the last leg of our Kazakhstan adventures! I can't believe how quickly time is passing by. We've got our next two countries set after Kazakhstan which will be Jordan and Bhutan. We probably will only have one or two more after that before Christmas. Crazy!
 
-All cats love Kevin.
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/the-ring-tour-of-almaty/cats_love_kevin.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption class="video-caption">
+      All cats love Kevin.
+    </figcaption>
+  </figure>
+</div>
