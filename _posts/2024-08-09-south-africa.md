@@ -108,7 +108,17 @@ The view from up on the plateau!
 
 </figcaption>
 
-It was windy coming back down!
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/south-africa/windy_hiking.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption class="video-caption">
+      It was windy coming back down!
+    </figcaption>
+  </figure>
+</div>
 
 One weird thing about doing this hike is that you have to book the shuttles for a particular time. I wasn’t sure whether they would be strict about what time you could get on the shuttle, say if you happened to hike faster or slower than predicted (this happened to me in Spain and I ended up having to wait for my scheduled shuttle) so we were trying to make it back in time for our 5pm shuttle. Since the way down was, well, going down, we ended up picking up our pace a bit. And the wind! The wind was really going by then. We ended up about an hour early and chilled at a small hut that was stationed at the trailhead. There was another group of four hikers, the last on the mountain (everyone has to check in and out in a guestbook), that were also coming down though we had earlier directed them to the gorge and so were taking a bit longer. The wind _howled_ as the minutes went on and I think every aspect of the hut was shaking. They arrived safely, not too long later, and we all crammed into another 4x4 to get jostled back to the hotel. The group of four young adults were exchange students from Switzerland, studying law and studying abroad in Pretoria. The 4x4 barely made it back; just as we got to the bit of paved road the engine of the car died and we coasted to the entrance. The car had definitely seen better days; at one point the door refused to stay closed as well. But it did the job!
 
@@ -126,6 +136,15 @@ Following our adventure hike, we embarked on something that neither of us have e
 
 When we arrived at our lodge for the night, the horses of the lodge had been shooed out of their stables and out in a field area. I’ll never forget how all the lodge horses piled up against the gate watching our horses get priority in the stables. They just stood there watching as our horses’ saddles were taken off and all four of our horses immediately dropped to the ground and started rolling around in the grass like dogs. They slurped water, mine had a particular love of stopping at every water source on the trail and dribbling out half of the water with every gulp, and noshed on something in a big trough. And the other horses continued to watch on. I can only imagine the incredulity they probably were thinking: who are these strange horses that are now rolling around in my house that I got kicked out of?!
 
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/south-africa/horse_rolling_around.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </figure>
+</div>
+
 ![](assets/img/south-africa/PXL_20240710_173232067_Original.jpeg)
 
 <figcaption>
@@ -136,7 +155,17 @@ Dinner at the lodge! I remember that the side of carrots and zucchini (called �
 
 We had a really lovely evening at this lodge. We weren’t expecting much as we had no idea what lodging had been booked for us, but we had a delicious three-course candlelight dinner next to a blazing fire. I unsuccessfully tried to make a fire in our room but instead filled it with smoke. As I left the windows open and curled up into bed, Kevin went out for a quick peek outside to gaze up into the stars. As he seems to do in every country now, the lodge’s cat immediately found him and cuddled his legs… and then leaped through the open window into bed with me. Oops! We shooed him out eventually, panicking as our host told us we weren’t supposed to let the cats in.
 
-The cat once again found her favorite human, Kevin, in the morning.
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/south-africa/cats_love_kevin_so_much.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption class="video-caption">
+      The cat once again found her favorite human, Kevin, in the morning.
+    </figcaption>
+  </figure>
+</div>
 
 The horses really can crush through incredibly steep terrain. On the first day, there was one bit that was so steep that the horses were panting a bit by the time we reached the top plateau, but I could barely believe we rode up the steep loose rocky hill on horseback in the first place while I was clinging on for dear life. The second day, we clambered up another hill but this time, it was steep enough that we left the horses part of the way up and climbed up on our own two feet. Up on the plateau, we peered over the ledge to view a vulture nesting area and fill our eyes with more incredible views of landscape. After a long stint of riding, my legs felt so wobbly that I felt like an infant learning how to toddle their first steps.
 
