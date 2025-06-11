@@ -122,9 +122,28 @@ Kurash medal ceremony.
 
 Our second day was filled with more horseback games. We saw Turkish-style horseback archery which involved competitors performing two different types of runs, each twice. The first run involved galloping the horse across the field while shooting three eye level targets. The second involved galloping across the field and first shooting a small target on the ground (mimicking shooting a lion or other predator from olden days) and shooting a metal plate that was many meters up (mimicking shooting down a messenger bird sent from an enemy). To no one’s surprise, the players from Kazakhstan and Kyrgyzstan were incredible; their upper bodies were totally still while their horses galloped at an incredible speed. A competitor from Thailand and a couple from Indonesia were also exceptionally good. The French competitors were clearly excellent horsemen but oftentimes missed the targets. The Canadians barely seemed like they knew how to ride a horse.
 
-Horseback archery.
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/the-5th-world-nomad-games-astana-kazakhstan/horseback_archery.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption class="video-caption">
+      Horseback archery.
+    </figcaption>
+  </figure>
+</div>
 
 We watched the tail end of horseback wrestling this day and also had some fun roaming around the cultural area that had been set up. There were tons of yurts, many selling different tchotchkes, lots of stalls selling food and ice creams, and various performances either on a high production stage or randomly between the yurts. It was very cool to see lots of kids performing their traditional dances in the traditional Kazakh clothing and also generally learn about their culture; they even had a mock wedding going on at one point (which involved showering the bride with candy like a smashed piñata). There were lots of people who were curious where we came from (we still say Canada… much nicer reception in pretty much every single place on Earth so far and we avoid any questions about politics) and at one point, I got dragged into a random photo with a random person and I’m pretty sure my face looked like it was totally confused because I absolutely was. Kazakh people drink lots of simple black tea with milk (which is fantastic for me) and a local tea company, Piada, was handing out free cups to my delight. The weather held up beautifully; it felt exactly like summer to fall transition weather with a bit of chill coming on in the evenings and the atmosphere was celebratory and fun. This experience really makes me want to try to see the Olympic Games at some point in my life. Maybe it’ll be a bit more chaotic and crowded but it’s hard to imagine that the joy and pride of the teams, visitors, and locals won’t feel the same and equally infectious.
+
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/the-5th-world-nomad-games-astana-kazakhstan/horseback_wrestling.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </figure>
+</div>
 
 ![](assets/img/the-5th-world-nomad-games-astana-kazakhstan/P9100048.jpg)
 
