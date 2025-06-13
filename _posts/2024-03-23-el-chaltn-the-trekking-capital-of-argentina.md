@@ -32,7 +32,17 @@ Our first day in Chaltén was mostly a catch-up-on-chores day; we’ve roughly s
 
 ![](assets/img/el-chaltn-the-trekking-capital-of-argentina/P3080474_Original.jpeg)
 
-We saw some Patagonian Magellanic woodpeckers on the way back from the waterfall.
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/el-chaltn-the-trekking-capital-of-argentina/magellanic_woodpecker.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption>
+      We saw some Patagonian Magellanic woodpeckers on the way back from the waterfall.
+    </figcaption>
+  </figure>
+</div>
 
 The following day, we did perhaps the most iconic and popular hike in all of Argentina: Laguna de Los Tres. The hike takes you to a lake that sits at the base of the famous Fitz Roy peak (originally named Mount Chaltén). Unfortunately, when we got to the lake, Fitz Roy (and most of the surrounding mountains) were covered with low clouds. On the flip side, low clouds, misty rain, and the occasional sun peeping through breaks in the clouds created many rainbows throughout the hike. The most stunning was a rainbow that arched right over the entire town of Chaltén as we hiked back.
 

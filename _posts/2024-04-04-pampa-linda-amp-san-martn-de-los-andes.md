@@ -160,7 +160,17 @@ View from the top of Cerro Colorado.
 
 </figcaption>
 
-Battling the winds!
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/pampa-linda-amp-san-martn-de-los-andes/windy_colorado.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption>
+      Battling the winds!
+    </figcaption>
+  </figure>
+</div>
 
 Finally our last half day (before our bus to Pucón, Chile) we strolled around San Martín, strolled around town and skipped rocks by the lake. It was a Sunday and the power had gone out (it seemed like a regular occurrence as many shops were well-prepared and busted out their generators) so there wasn’t much to do. Honestly, the slower pace and warm sun was welcome before our 4 hour bus ride. One day, we’d love to return either in the peak of summer to do more water activities like kayaking or standup paddleboarding by the lake (the town reminded us of some of the towns near Lake Tahoe in that respect) or visit during the wintertime to see how it transforms into a ski town! And with that, we ended our time in Argentina (for the most part — we’ll come back briefly to Salta and Mendoza at the end of April) and moved on to Chile!
 

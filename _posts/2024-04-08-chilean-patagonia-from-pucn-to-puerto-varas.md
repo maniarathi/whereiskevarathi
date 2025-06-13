@@ -52,7 +52,17 @@ This was my second time in crampons (after doing “Big Ice” in El Calafate). 
 
 </figcaption>
 
-Sliding down the glacier!
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/chilean-patagonia-from-pucn-to-puerto-varas/glacier_sledding.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption>
+      Sliding down the glacier!
+    </figcaption>
+  </figure>
+</div>
 
 There are many national parks in the Pucón area and we had to pick and choose which ones we visited. We first paid a visit to Parque Nacional Conguillío primarily to do the Sendero (Hike) Sierra Nevada. We really enjoyed this hike, especially enjoying the unusually warm summer-like weather and got to see the unique Araucaria trees. Parts of this park reminded us of Kona in Hawaii with its vast areas of lava rocks for endless miles. We got very lucky at the entrance of Conguillío national park — we didn’t realize that they only accepted electronic tickets and there was no cell service at the entrance of the national park. Instead of turning us back, the park ranger kindly let us through anyway! We learned our lesson from this experience and have been diligent about buying our electronic park passes since.
 

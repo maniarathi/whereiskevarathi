@@ -78,4 +78,14 @@ That’s all for now. Hopefully the weather continues to be good to us!
 
 - [Veggies Patagonico](https://maps.app.goo.gl/sxj3ZKPgSNZeSmXE6?g_st=ic): we got one of their lava cookies during the Big Ice trek and IT WAS SO YUMMY! It was the perfect snack for trekking and lucky for us, the bakery was very close to our Airbnb and we bought 13 cookies. 12 are getting saved for the O trek. Hopefully I don’t sneak one too early.
 
-An avalanche feeding a hanging glacier!
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/el-calafate-the-land-of-glaciers/glacier_falling.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption>
+      An avalanche feeding a hanging glacier!
+    </figcaption>
+  </figure>
+</div>
