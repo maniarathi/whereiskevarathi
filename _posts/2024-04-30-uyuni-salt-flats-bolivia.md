@@ -48,7 +48,17 @@ Geysers at _very_ high altitude; we were at 4900 meters or 16000 feet. These are
 
 Once we finally got past the Chilean border control, the Bolivian border control, Bolivian customs, and national park entrance (which took the good part of the first day) we finally started our journey through Bolivia, in a 4x4, towards the Salar. We stopped by a few high alpine lagunas, a hot spring (which was very welcome after sitting in vehicles for 8 hours), and ended our day at Laguna Colorada. I thought that I had seen lots of flamingos in Atacama but Colorada was just on another level of flamingos.
 
-So many flamingos at Colorada!
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/uyuni-salt-flats-bolivia/flamingos.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption>
+      So many flamingos at Colorada!
+    </figcaption>
+  </figure>
+</div>
 
 One of the best things about these types of longer excursions is the people that you meet. In our cramped 4x4, we met a couple from Germany and a couple from the UK who we absolutely loved sharing the experience with. I remember that towards the end of our trip, we all appreciated how much we got along. It felt like a make or break situation because there were many aspects of the trip that were a bit challenging: very early call times resulting in less sleep, very high altitude environments that caused some altitude sickness (though luckily we all managed well for the most part!), and very dusty air from high winds that gave me a dull headache for a couple hours. Sharing the experience with people who were absolutely wonderful to talk to, who are interesting and have a really positive attitude made this trip extra special!
 
@@ -62,7 +72,17 @@ Here we all are, wrangling a “camel.” :)
 
 Our driver and guide, Andreas, was also fantastic. Though he spoke limited English, he communicated well with us and had the best ideas for photos. I was in awe of how he navigated the Bolivian “roads.” I add the quotations because there really were not paved roads at all to get from the border to Uyuni. There are gravel paths where many cars have driven before but those can get really jittery due to ridges that have formed, so many cars take more of a “forge-your-own” method to try their best to minimize the shaking of the car. I learned that I have a special talent for being able to sleep through aggressively turbulent driving. Kevin was amazed how I could pass out while the car was in what he described as a “constant earthquake.”
 
-Driving along the Bolivian dirt roads.
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/uyuni-salt-flats-bolivia/Driving_Dirt_Roads.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption>
+      Driving along the Bolivian dirt roads.
+    </figcaption>
+  </figure>
+</div>
 
 ![](assets/img/uyuni-salt-flats-bolivia/PXL_20240413_230439437_Original.jpeg)
 
@@ -82,7 +102,17 @@ Walking off into the salt flats before sunrise!
 
 </figcaption>
 
-Andreas took this time lapse video and coordinated the motions. He really had the coolest ideas!
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/uyuni-salt-flats-bolivia/uyuni_reflection.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption>
+      Andreas took this time lapse video and coordinated the motions. He really had the coolest ideas!
+    </figcaption>
+  </figure>
+</div>
 
 ![](assets/img/uyuni-salt-flats-bolivia/P4150024_Original.jpeg)
 

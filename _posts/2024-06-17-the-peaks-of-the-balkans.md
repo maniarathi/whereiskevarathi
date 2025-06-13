@@ -252,7 +252,17 @@ The cows too!
 
 We had a lovely hike through the Scottish Highland-esque greenlands getting out of Dobërdol. One of the highlights of this hike was dropping our packs and climbing up to the “3 Borders Peak” which, as the name suggests, is a point where Albania, Montenegro, and Kosovo meet. The views at the top were so pretty! This hike was not too difficult in terms of elevation gain or loss so we really had a nice time meandering through the forests and through some shepherd villages before reaching Milisevc.
 
-View from the top of 3 Borders Peak.
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/the-peaks-of-the-balkans/panorama_peaks.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption class="video-caption">
+      View from the top of 3 Borders Peak.
+    </figcaption>
+  </figure>
+</div>
 
 The final stretch of the hike was walking past the largest shepherd village in the area called Roshkodol. It was interesting; Roshkodol is not a stop on the Peaks of the Balkans trail but there were lots of huge houses spread across a large area and we passed by many construction sites. My hypothesis is that this area is more for the locals who build their summer mountain homes here. Later this evening, the owner of the guest house we stayed at said that the people who stay in the mountains during the summer are passionate about maintaining the mountain culture so if anyone from Kosovo wants to spend a weekend or some time in the mountains, they do not need to pay to stay at a guest house and are treated like family.
 
@@ -300,7 +310,17 @@ View from our cabin for the night.
 
 This was another “easy” day with little mileage (~9 kilometers) but approximately 1100 meters of elevation gain. Unusually, we began our day by first taking a car transfer from Babino Polje to Grebaje Valley which is not part of the traditional Peaks of the Balkans route. In fact, Grebaje Valley is pretty accessible if one is visiting Montenegro generally; there are decent roads from larger towns like Plav and Gusinje (also called Vusanje). This meant that for the first time in a while, there were actually lots of people on the trail and most of them were day hikers who were staying a few days in one of the nearby town villages.
 
-Sheep traffic jam. Though let’s be honest, the car was in the way of the sheep, not the other way around.
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/the-peaks-of-the-balkans/sheep_crossing.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption class="video-caption">
+      Sheep traffic jam. Though let’s be honest, the car was in the way of the sheep, not the other way around.
+    </figcaption>
+  </figure>
+</div>
 
 After getting dropped off at the trailhead, we decided to see if we could drop off our packs somewhere instead of hauling them up and down the peaks we were about to climb. We were going to have another car transfer pick us up in the late afternoon again from the trailhead to whisk us away to Vusanje so we didn’t _need_ to carry our packs. We found a little hut close by with a kind husband and wife who let us drop off our packs and refused payment. So off we went, with just a daypack up not just one, but three peaks for a “lollipop” hike.
 

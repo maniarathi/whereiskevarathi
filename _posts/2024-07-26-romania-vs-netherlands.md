@@ -20,7 +20,17 @@ In any case, this one should be a quick one! We were trying to figure out how to
 
 Only sort of darn actually. The next day, I decided to send back two of my lens, the broken wide angle and my regular 14-42mm, and buy one lens that covers roughly the entire range with a larger aperture as well. It’s a bit tiring to always carry three lens around and swapping between three can be a bit of a hassle, so two lens seemed better. Having had this setup for a couple weeks now, I am very happy with that decision. Plus the larger aperture lets in more light so I’m quite excited to be able to take better low light pictures which would be helpful for any safari excursions we do at the crack of dawn or at dusk when animals are quite active. We also shipped back some stuff, including my lens, to the States to lighten our backpacks; it’s an undervalued luxury to be able to ship things effortlessly and for packages to be delivered within a week or so, especially after our various adventures trying to ship things from small towns like El Chaltén in Argentina. I think it took our packages two months to arrive at their destination after we managed to ship from Argentina.
 
-Romania pregaming ahead of the match in Marienplatz.
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/romania-vs-netherlands/pre_euros.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption class="video-caption">
+      Romania pregaming ahead of the match in Marienplatz.
+    </figcaption>
+  </figure>
+</div>
 
 After a morning of dashing around Munich to finish off our respective errands, Kevin and I joined up again at a beer garden for lunch, because it seems blasphemous to leave Munich without setting foot in a beer garden. A stein each plus some delicious super fatty brown food had our stomachs well filled before we trained to the arena to watch the Round of 16 Netherlands versus Romania Euros game! The Romanian fans were definitely the more enthusiastic of the two; while running errands, we both ran into the Romanian fans enthusiastically pregaming and partying in Marienplatz. I love how enthusiastic fans gets for their country; the horns, the chants, the flag waving, the rain of beer.
 
@@ -62,4 +72,14 @@ The Romanian team getting cheered on after their defeat.
 
 I’ll have to come back to Munich sometime to explore the city even more (Kevin’s already visited the city extensively previously)! I loved what little I saw. But for now, we jumped back on a flight to head to Johannesburg and the take a short hop to Port Elizabeth! It’s weird to think it’s only actually our third long haul flight this year given how much we’ve travelled on planes so far. Africa, here we come!
 
-Post-match fun!
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/romania-vs-netherlands/post_match.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption class="video-caption">
+      Post-match fun!
+    </figcaption>
+  </figure>
+</div>

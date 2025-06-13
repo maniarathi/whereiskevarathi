@@ -18,9 +18,28 @@ Göreme, the main touristic city in Cappadocia, with the unique rock formations 
 
 One of the most iconic things to do in Cappadocia is fly in a hot air balloon over the unique rock formations that the area is renowned for. We had another stroke of luck here; before we arrived, we messaged our guesthouse host to let him know we wanted to fly in a hot air balloon and he recommended we do it straightaway (i.e. the next morning) after we got in. After my lost luggage situation, we see-sawed a bit wondering whether to cancel because a) it was late by the time we arrived and the call time was 4am and b) I only had the clothes on my body to wear and it was going to be very cold at 4am. We decided to power through and go for it as one bit of additional luck I had was that I had packed a puffer jacket in my daypack, since I tend to turn into an ice cube on airplanes. As our trip went on we found out that every single balloon ride was canceled for the remainder of our time in Cappadocia due to high winds so we were very very glad that we decided to not cancel our booking!
 
-Uprighting the basket!
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/cappadocia-a-real-life-surrealist-painting/hot_air_balloon.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption class="video-caption">
+      Uprighting the basket!
+    </figcaption>
+  </figure>
+</div>
 
 The hot air balloon ride is up there in the top things we’ve done on this entire trip so far. We drove out to the middle of a field in the darkness and watched as the crew laid down the balloon shell on the dried grass and blew two high powered fans into the bottom to blow it up. While the crew worked to inflate the balloon, we nursed some cups of hot tea, coffee and cocoa as the first of the other balloons quietly rose in the air against the cracking of dawn. The balloons remind me of brightly coloured candy wrappers in a kid’s Halloween haul. Seeing them rise against the darkened sky was especially cool; we watched as the silhouettes of the balloons rose and when the hot flames were ignited to give the balloon lift, the balloon’s colorful canvas would be lit up, especially beautiful against the dark background.
+
+<div class="video-wrapper">
+  <figure class="video-figure">
+    <video controls>
+      <source src="assets/img/cappadocia-a-real-life-surrealist-painting/balloons_rising.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </figure>
+</div>
 
 Eventually it was our turn to go up. We climbed into the huge basket, four people to a capsule, seven capsules in total and I peered over the edge watching the basket firmly sat on the grass thinking there’s no way that just a few blasts of hot air can possibly _lift_ this basket straight into the air. And yet, that’s exactly what happened. A few moments after the pilot blasted the powerful flames into the balloon, the basket quietly lifted up and began its ascent into the morning air. I tell you, physics is just absolutely magical.
 
