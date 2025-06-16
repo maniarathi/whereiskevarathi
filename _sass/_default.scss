@@ -167,7 +167,7 @@ figcaption {
   text-align: center; /* Centers inline-block children */
 }
 
-.video-wrapper figure {
+.video-figure video {
   margin: 0 auto;           /* Centers the figure itself if it has a width */
   display: inline-block;    /* Allows text-align: center on parent to work */
   max-width: 70%;
@@ -189,6 +189,7 @@ figcaption {
 .video-wrapper video,
 .video-wrapper iframe {
   display: block;           /* Ensures it behaves as a block element for sizing */
-  max-width: 100%;          /* Makes sure it shrinks on smaller screens */
+  max-width: 70%;
+  max-height: 90vh;
   height: auto;             /* Maintains aspect ratio */
 }
