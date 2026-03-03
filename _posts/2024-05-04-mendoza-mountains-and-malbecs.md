@@ -8,7 +8,7 @@ image: "mendoza-mountains-and-malbecs/P4220032_Original.jpeg"
 
 I could spend far too many calories waxing poetic about the concept of time but I’ll skip all that. I’m currently on a catamaran in the Galápagos, nearly 9pm at night and the captain has set sail for Santiago Island. It’s our 4th day on the boat, but today marked a special day: we crossed the equator by boat and it’s our first time in the Northern hemisphere since we left for Buenos Aires in early February. Mendoza marked another milestone: it was our last bit of time in Argentina. At the beginning of the trip, I wouldn’t have believed for a second that we would have spent the majority of our time in Argentina and that we would spend the vast majority of our time in South America in just 2 countries, Argentina and Chile. We had all these grand ideas about visiting so many more countries in South America but we feel very lucky to have had the time to visit even just Argentina and Chile as much as we did. It’s hard to believe that our time in South America is coming to an end!
 
-![](assets/img/mendoza-mountains-and-malbecs/P4200017_Original.jpeg)
+![](/assets/img/mendoza-mountains-and-malbecs/P4200017_Original.jpeg)
 
 <figcaption>
 
@@ -20,7 +20,7 @@ After the Bolivian Salt Flats and our return to Atacama, both Kevin and I were i
 
 I’m going to break this post up into two sections which won’t be quite chronologically accurate. In Mendoza, there is wine, of course, but the province is edged with the Andes mountains and we were able to do some really nice hiking there. We sandwiched hiking between our wine excursions (wine, hiking, more wine) but for the sake of this post, I’ll lump together our two wine-related explorations into one section and separate out our bit of hiking in the middle.
 
-![](assets/img/mendoza-mountains-and-malbecs/20240419_121631_Original.jpeg)
+![](/assets/img/mendoza-mountains-and-malbecs/20240419_121631_Original.jpeg)
 
 <figcaption>
 
@@ -32,7 +32,7 @@ Bienbebidos!
 
 To no surprise, we spent a few of the days in Mendoza visiting wineries and tasting shades of Malbec as well as Cabernet Sauvignon, Tempranillo, Semillón, and other grape varietals. There are a few subregions within Mendoza that each have their own speciality in which grapes are grown and how the vines fruit based on the “terroir” (the landscape/soil) in which they grow. We spent one day doing a self-guided biking wine tour in Maipú valley, another day in Uco Valley (known for some of the boldest flavoured wines), and a third day in Lujan de Cuyo.
 
-![](assets/img/mendoza-mountains-and-malbecs/PXL_20240419_184639815_Original.jpeg)
+![](/assets/img/mendoza-mountains-and-malbecs/PXL_20240419_184639815_Original.jpeg)
 
 <figcaption>
 
@@ -44,7 +44,7 @@ Funnily enough, our favorite winery of the whole trip was a sparsely visited sto
 
 The bike tour did not get off to a great start. I was hangry not having breakfast in the morning and with the promise of empanadas we cycled to our first chosen winery which boasted organic wines. We thought, surely there must be vegetarian options for a self-proclaimed “hippy” winery! Wrong. Luckily, I was able to quickly cycle to a nearby convenience store to pick up some tea cookies to tide me over (I was not eager to start drinking on an empty stomach have just recovered from food poisoning) and with that boost, we started in on our first flight. Skipping towards the end a bit, our bike tour really had only 3 stops: the organic wines we tried first (not that good), an extremely long lunch stop at one of the olive oil places (pretty good food that was made to order and warned us with a sign that “good food takes patience”), and the tasting/tour combo an Alandes.
 
-![](assets/img/mendoza-mountains-and-malbecs/PXL_20240425_153739330_Original.jpeg)
+![](/assets/img/mendoza-mountains-and-malbecs/PXL_20240425_153739330_Original.jpeg)
 
 <figcaption>
 
@@ -54,7 +54,7 @@ This was taken from Riccitelli Wines. Many of the vineyards in Mendoza have the 
 
 Alandes was a phenomenal winery. The bodega that we visited was largely a labeling centre with a large space for fermentation in concrete tanks that was also rented out by other wineries. They have 7 different wine projects totalling nearly 50 wine labels. They had a beautiful tasting room and outdoor area (and a very sleepy dog who they called the Queen of the winery) and we enjoyed sampling seven of their labels. I found some of their wines to be quite creative; one of their labels has no vintage because every year, they hold back around 30% of the wine and mix it in with the wine made in the following year. They supplied us with one of the first white wines that I haven’t aggressively objected to (a 100% Torrontés wine from the Salta region that was dry and crisp). We did ship home a few souvenirs from this winery for future consumption. We’re really excited to retry these wines again since they aren’t quite as available in the United States (for several of their labels, they only make about 1000 bottles) and the flavors of these wines were really bold, unique and complex.
 
-![](assets/img/mendoza-mountains-and-malbecs/PXL_20240424_144845084_Original.jpeg)
+![](/assets/img/mendoza-mountains-and-malbecs/PXL_20240424_144845084_Original.jpeg)
 
 <figcaption>
 
@@ -66,7 +66,7 @@ Most of the famous wineries of Mendoza like Salentein, Andeluna, and Pulenta req
 
 And finally, we visited a couple wineries in the Lujan de Cuyo area. We had a great time at our tour and tasting at Bodega Vistalba where we met a really lovely family from Seattle/Texas. It was at this winery that I learned the word “terroir” as they had their tasting room below ground with an exposed “wall” that was the soil make up underneath the vineyard.
 
-![](assets/img/mendoza-mountains-and-malbecs/20240424_122814_Original.jpeg)
+![](/assets/img/mendoza-mountains-and-malbecs/20240424_122814_Original.jpeg)
 
 <figcaption>
 
@@ -76,7 +76,7 @@ Vistalba’s terroir.
 
 The architecture of the bodega was really beautiful and it was really cool to see more of the barrel aging process at this winery. We ended up extending our time at the bodega to share a lunch with the family we met. Vistalba also had some of the most delicious olive oil — really punchy and peppery olive oil that we eagerly sopped up with their onion and red pepper focaccia.
 
-![](assets/img/mendoza-mountains-and-malbecs/P4240005_Original.jpeg)
+![](/assets/img/mendoza-mountains-and-malbecs/P4240005_Original.jpeg)
 
 <figcaption>
 
@@ -86,7 +86,7 @@ Seeing the “pipone” barrel in the back was super cool at Vistalba. I believe
 
 We ended our Mendoza visit with a tasting menu that Kevin booked at Bodega Riccitelli. It was a _stunning_ nearly 4 hour lunch crafted primarily with ingredients grown on their vineyard property. Their creative wines were paired beautifully and their al fresco dining area with a view of the Andes mountains and their vineyard was just perfection. At the end of the lunch, I strolled around the vineyard and ran into a darling 5 year old girl who was entertaining herself by running in circles in the grass and inspecting rocks. I was proud of myself for being able to hold a short conversation with her in Spanish as we both plopped ourselves down in the warm grass. Honestly, she was the one driving the conversation but at least I could understand and answer her questions and ask a couple back myself!
 
-![](assets/img/mendoza-mountains-and-malbecs/PXL_20240425_162112201_Original.jpeg)
+![](/assets/img/mendoza-mountains-and-malbecs/PXL_20240425_162112201_Original.jpeg)
 
 <figcaption>
 
@@ -94,7 +94,7 @@ The opening “snack” was honestly my favorite. The best hummus, erm, I mean �
 
 </figcaption>
 
-![](assets/img/mendoza-mountains-and-malbecs/PXL_20240425_170650756_Original.jpeg)
+![](/assets/img/mendoza-mountains-and-malbecs/PXL_20240425_170650756_Original.jpeg)
 
 <figcaption>
 
@@ -104,13 +104,13 @@ I cannot remember what this kale-looking leaf is called but it is grown onsite a
 
 It was such a perfect way not just to end our time in Mendoza, but our entire time in Argentina: the mountains, the wine, and the wonderful people.
 
-![](assets/img/mendoza-mountains-and-malbecs/PXL_20240425_153200883_Original.jpeg)
+![](/assets/img/mendoza-mountains-and-malbecs/PXL_20240425_153200883_Original.jpeg)
 
 **The Mountains**
 
 We couldn’t leave Mendoza without visiting Aconcagua. Very simply, that was the draw for us to drive out to a tiny town called Upsallata to pay a visit to the tallest mountain in the world outside of Asia towering at nearly 7000 meters (almost 23,000 feet). Along the drive, we kept thinking that various snowy peaks we passed were Aconcagua, but the mountain is actually quite tucked in the Andes and is only largely visible once you get close to the national park. We had hoped to be able to do the hike to the first base camp but the hike had closed down already for the winter season. We were able to walk quite a ways through the valley towards the base camp though. The mountain is not coy — from the moment we entered the park, the mountain very obviously loomed in front of us. It made the short hike we did quite nice actually; we kept walking closer and closer and it never disappeared from our view. It was magnificent and mesmerizing in a way that I’m not sure I have the words to describe. Even as we walked back towards the entrance after walking as far as we could go (eventually the trail was barred off), we both kept turning around to fill our eyes again with its grandeur.
 
-![](assets/img/mendoza-mountains-and-malbecs/P4220032_Original.jpeg)
+![](/assets/img/mendoza-mountains-and-malbecs/P4220032_Original.jpeg)
 
 <figcaption>
 
@@ -118,7 +118,7 @@ Aconcagua.
 
 </figcaption>
 
-![](assets/img/mendoza-mountains-and-malbecs/P4220029_Original.jpeg)
+![](/assets/img/mendoza-mountains-and-malbecs/P4220029_Original.jpeg)
 
 <figcaption>
 
@@ -126,7 +126,7 @@ I tried to zoom in as much as I could to capture the summit of Aconcagua (on the
 
 </figcaption>
 
-![](assets/img/mendoza-mountains-and-malbecs/P4220048_Original.jpeg)
+![](/assets/img/mendoza-mountains-and-malbecs/P4220048_Original.jpeg)
 
 <figcaption>
 
@@ -134,7 +134,7 @@ A grey-hooded sierra finch that was hopping around on the trail at Aconcagua.
 
 </figcaption>
 
-![](assets/img/mendoza-mountains-and-malbecs/P4220052_Original.jpeg)
+![](/assets/img/mendoza-mountains-and-malbecs/P4220052_Original.jpeg)
 
 <figcaption>
 
@@ -144,7 +144,7 @@ A lovely laguna that we walked past at Aconcagua National Park.
 
 We did a couple of other hikes in the area as well — I’ll post some pictures from these hikes. It was nice to have our legs moving again though they were definitely not as intense as the hikes we did earlier. AllTrails saved our butts on one of the trails where we completely missed the trail entrance altogether and ended up having to follow a dried up stream path down to lower elevation. We still think we did a better trail than the one that was the true marked trail and in our defense, there were no signs that actually marked the trail entrance.
 
-![](assets/img/mendoza-mountains-and-malbecs/P4200020_Original.jpeg)
+![](/assets/img/mendoza-mountains-and-malbecs/P4200020_Original.jpeg)
 
 <figcaption>
 
@@ -152,7 +152,7 @@ The view from Pico de la Cruz. Uspallata is nestled among the yellow and green f
 
 </figcaption>
 
-![](assets/img/mendoza-mountains-and-malbecs/PXL_20240421_210939258_Original.jpeg)
+![](/assets/img/mendoza-mountains-and-malbecs/PXL_20240421_210939258_Original.jpeg)
 
 <figcaption>
 
@@ -162,7 +162,7 @@ Cerro Siete Colores. This picture doesn’t really do the colors justice as the 
 
 Worth mentioning is the drive to Aconcagua and back to Uspallata. As you could imagine, it’s a really picturesque drive that winds through the valleys of the Andes. One of the really interesting parts of the drive is that you drive alongside an abandoned railway for a good portion of the way. The history behind this railway is that the vision was for the railway to be an efficient way to transport goods between Santiago and Argentina. The railway ended up being too weak to hold the weight of cargo and ended up becoming a passenger railway. Even then, the railway ended up being very costly to maintain as frequent snowstorms in the wintertime would end up completely blocking train passage. Eventually the railway was abandoned. Alongside the road there are still a few abandoned and now graffitied “ghost” train stations. There is one that you can actually visit by crossing the former railway bridge by foot. I chickened out from crossing it as a few planks were missing and I didn’t fancy plunging into the shallow Rio Mendoza below. There are some places were you can stop to explore the old railway tunnels as well though we ended up missing it on our drive back.
 
-![](assets/img/mendoza-mountains-and-malbecs/P4200004_Original.jpeg)
+![](/assets/img/mendoza-mountains-and-malbecs/P4200004_Original.jpeg)
 
 <figcaption>
 
@@ -188,7 +188,7 @@ So with that and a stomach full of wine and alfajores, we departed for Ecuador t
 
 - [Cork Dork](https://www.amazon.com/Cork-Dork-Wine-Fueled-Sommeliers-Scientists/dp/0143128094). This was a book recommendation I got from someone at one of the wineries we visited. I haven’t finished it yet, but I’m in the middle of it and it’s an eye-opening view into the world of trying to become a sommelier, more thorough than shows like Netflix’s “Somm.” I’m really enjoying it
 
-![](assets/img/mendoza-mountains-and-malbecs/PXL_20240426_111216150_Original.jpeg)
+![](/assets/img/mendoza-mountains-and-malbecs/PXL_20240426_111216150_Original.jpeg)
 
 <figcaption>
 
