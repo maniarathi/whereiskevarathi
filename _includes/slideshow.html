@@ -14,12 +14,13 @@
 
   <div class="slider-nav">
     {% if image_count < min_nav_items %}
-      {% for nav_index in (0..5) %}
-        {% assign image_index = nav_index | modulo: image_count %}
-        {% assign image = include.images[image_index] %}
-        <div class="thumbnail-item" data-slide-index="{{ image_index }}">
-          <img src="{{ image.url | relative_url }}" alt="{{ image.alt }}">
-        </div>
+      {% for nav_position in (1..6) %}
+        {% assign image_index = forloop.index0 | modulo: image_count %}
+        {% for image in include.images offset:image_index limit:1 %}
+          <div class="thumbnail-item" data-slide-index="{{ image_index }}">
+            <img src="{{ image.url | relative_url }}" alt="{{ image.alt }}">
+          </div>
+        {% endfor %}
       {% endfor %}
     {% else %}
       {% for image in include.images %}
