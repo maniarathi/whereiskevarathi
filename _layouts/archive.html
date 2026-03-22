@@ -2,24 +2,37 @@
 layout: default
 ---
 
-<h1>
-  {{ page.title }}
-</h1>
+<div class="archive-content">
+  <h1>
+    {{ page.title }}
+  </h1>
 
-<ul class="posts-container">
-  {% for post in site.posts %}
-    {% unless post.next %}
-      <h3>{{ post.date | date: '%Y' }}</h3>
-    {% else %}
-      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-      {% if year != nyear %}
-        <h3>{{ post.date | date: '%Y' }}</h3>
+  {% for continent in site.data.travel_index %}
+    <section class="archive-continent">
+      <h2>{{ continent.name }}</h2>
+      {% if continent.note %}
+        <p class="archive-note">{{ continent.note }}</p>
       {% endif %}
-    {% endunless %}
-    <li itemscope>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <p class="post-date"><span><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date: "%B %-d" }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span></p>
-    </li>
+      {% for country in continent.countries %}
+        {% assign anchor_id = continent.name | append: '-' | append: country.name | slugify %}
+        <details class="archive-country" id="{{ anchor_id }}">
+          <summary class="archive-country-summary">
+            <span class="archive-country-name">{{ country.name }}</span>
+            <span class="archive-country-icon" aria-hidden="true">+</span>
+          </summary>
+          <ul class="archive-posts">
+            {% for post_url in country.posts %}
+              {% assign matches = site.posts | where: "url", post_url %}
+              {% assign matched_post = matches.first %}
+              {% if matched_post %}
+                <li>
+                  <a href="{{ matched_post.url | relative_url }}">{{ matched_post.title }}</a>
+                </li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </details>
+      {% endfor %}
+    </section>
   {% endfor %}
-</ul>
+</div>

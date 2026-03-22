@@ -15,6 +15,24 @@ layout: default
   <article>
     {{ content }}
   </article>
+  {% if page.next or page.previous %}
+    <nav class="post-nav" aria-label="Post navigation">
+      {% if page.next %}
+        <a class="post-nav-link post-nav-newer" href="{{ page.next.url | relative_url }}">
+          <span class="post-nav-label">Newer</span>
+          <span class="post-nav-title">{{ page.next.title }}</span>
+        </a>
+      {% else %}
+        <span class="post-nav-spacer"></span>
+      {% endif %}
+      {% if page.previous %}
+        <a class="post-nav-link post-nav-older" href="{{ page.previous.url | relative_url }}">
+          <span class="post-nav-label">Older</span>
+          <span class="post-nav-title">{{ page.previous.title }}</span>
+        </a>
+      {% endif %}
+    </nav>
+  {% endif %}
 </div>
 {% if site.data.settings.hide_related_posts != true %}
   {% include related-posts.html %}

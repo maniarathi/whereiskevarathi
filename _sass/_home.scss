@@ -1,56 +1,147 @@
 /*
-  Posts
+  Home
 */
+
+.journal-intro {
+  max-width: 760px;
+  margin: 1rem auto 4.5rem;
+  text-align: center;
+}
+
+.journal-kicker,
+.section-kicker,
+.entry-kicker {
+  margin-bottom: 0.75rem;
+  font-family: $sans-serif-font-family;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: $light-gray-color;
+}
+
+.journal-title {
+  margin-bottom: 1rem;
+}
+
+.journal-summary {
+  max-width: 40rem;
+  margin: 0 auto;
+  font-size: 1.05rem;
+  line-height: 1.9rem;
+}
+
+.journal-browse-link {
+  margin-top: 1.1rem;
+  font-family: $sans-serif-font-family;
+  font-size: 0.95rem;
+}
+
+.featured-media,
+.entry-media {
+  display: block;
+  text-decoration: none;
+}
+
+.featured-title a,
+.thumbnail-container h2 a {
+  text-decoration: none;
+}
+
+.entry-meta {
+  margin-bottom: 1rem;
+  font-family: $sans-serif-font-family;
+  font-size: 0.88rem;
+  color: $light-gray-color;
+}
+
+.meta-separator {
+  padding: 0 0.45rem;
+}
+
+.featured-excerpt,
+.entry-excerpt {
+  margin-bottom: 1rem;
+}
+
+.entry-link {
+  display: inline-block;
+  font-family: $sans-serif-font-family;
+  font-size: 0.92rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+}
+
+.posts-section {
+  margin-top: 1rem;
+}
+
+.section-heading {
+  margin-bottom: 2rem;
+}
 
 .posts-container {
   display: grid;
-  /* Creates two columns of equal width */
-  grid-template-columns: 1fr 1fr;
-  /* Gap between grid items */
-  gap: 5rem;
-  padding: 2rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 3rem;
+  row-gap: 4rem;
 }
 
-/*
-  Thumbnail
-*/
-
 .thumbnail-container {
-  display: flex;
-  flex-direction: column; /* Stack content vertically inside thumbnail */
-  overflow: hidden;
-  border-radius: 5px;
-  margin-bottom: 25px;
+  display: block;
   width: 100%;
-  transition: transform 0.2s ease-in-out;
 
-  /* Initial state for fade-in animation */
   opacity: 0;
-  transform: translateY(20px);
-  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
-  /* Add a small delay for staggered effect */
+  transform: translateY(24px);
+  transition: opacity 0.65s ease-out, transform 0.65s ease-out;
   transition-delay: var(--delay, 0s);
 }
 
-.thumbnail-container.fade-in-active {
+.journal-entry.fade-in-active {
   opacity: 1;
   transform: translateY(0);
 }
 
-.thumbnail-container h2 {
-  text-align: center;
-}
-
-.thumbnail-container img{
+.entry-media img {
+  width: 100%;
   max-width: 100%;
-  margin-bottom: 1rem;
+  max-height: none;
+  height: auto;
+  object-fit: contain;
+  border-radius: 16px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.1);
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
 }
 
-/*
-  Pagination
-*/
+.entry-copy,
+.featured-copy {
+  padding: 1.1rem 0 0;
+}
+
+.thumbnail-container h2 {
+  margin-bottom: 0.85rem;
+  text-align: left;
+  font-size: 1.5rem;
+  line-height: 1.15;
+}
+
+.thumbnail-container:nth-child(even) {
+  transform: translateY(2.2rem);
+}
+
+.thumbnail-container.fade-in-active:nth-child(even) {
+  transform: translateY(2.2rem);
+}
+
+.thumbnail-container:hover .entry-media img,
+.featured-dispatch:hover .featured-media img {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 34px rgba(0, 0, 0, 0.14);
+}
 
 .pagination {
+  margin-top: 3.5rem;
   overflow: hidden;
   font-family: $sans-serif-font-family;
   text-align: center;
@@ -63,10 +154,12 @@
 .pagination-button {
   color: $light-gray-color;
   border: 1px solid $pagination-button-color;
-  padding: 15px 45px;
+  background: rgba(255, 255, 255, 0.78);
+  padding: 14px 34px;
   display: inline-block;
-  font-size: 16px;
-  font-weight: bold;
+  border-radius: 999px;
+  font-size: 15px;
+  font-weight: 700;
 }
 
 .pagination-active {
@@ -75,4 +168,31 @@
 
 .pagination-active:hover {
   background-color: $pagination-button-color;
+}
+
+@media (max-width: 980px) {
+  .posts-container {
+    grid-template-columns: 1fr;
+    row-gap: 3rem;
+  }
+
+  .thumbnail-container:nth-child(even),
+  .thumbnail-container.fade-in-active:nth-child(even) {
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: $container-responsive-width) {
+  .journal-intro {
+    margin-bottom: 3rem;
+  }
+
+  .entry-copy,
+  .featured-copy {
+    padding-top: 1rem;
+  }
+
+  .thumbnail-container h2 {
+    font-size: 1.3rem;
+  }
 }

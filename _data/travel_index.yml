@@ -1,0 +1,101 @@
+- name: South America
+  countries:
+    - name: Colombia
+      posts:
+        - /colombia-part-1-medelln
+    - name: Argentina
+      posts:
+        - /stop-1-buenos-aires
+        - /ushuaia-the-end-of-the-world
+        - /el-calafate-the-land-of-glaciers
+        - /el-chaltn-the-trekking-capital-of-argentina
+        - /bariloche-exploring-the-lake-district
+        - /pampa-linda-amp-san-martn-de-los-andes
+        - /mendoza-mountains-and-malbecs
+    - name: Chile
+      posts:
+        - /o-trek-in-torres-del-paine
+        - /chilean-patagonia-from-pucn-to-puerto-varas
+        - /santiago-amp-valparaso
+        - /rapa-nui-easter-island
+        - /atacama-desert-the-driest-non-polar-desert-on-earth
+    - name: Bolivia
+      posts:
+        - /uyuni-salt-flats-bolivia
+    - name: Ecuador
+      posts:
+        - /the-galpagos-islands-no-blue-no-green
+
+- name: Europe
+  countries:
+    - name: Spain
+      posts:
+        - /spain
+    - name: France
+      posts:
+        - /the-best-croissant-in-paris
+        - /paris
+    - name: Albania
+      posts:
+        - /tiran-and-the-albanian-riviera
+    - name: Balkans
+      posts:
+        - /the-peaks-of-the-balkans
+    - name: Turkey
+      posts:
+        - /byzantium-constantinople-istanbul
+        - /the-ancient-cities-of-turkey
+        - /turkish-riviera
+        - /cappadocia-a-real-life-surrealist-painting
+        - /istanbul-again
+    - name: Germany
+      posts:
+        - /romania-vs-netherlands
+
+- name: Africa
+  countries:
+    - name: South Africa
+      posts:
+        - /south-africa
+    - name: Mozambique
+      posts:
+        - /the-underwater-paradise-of-mozambique
+    - name: Tanzania
+      posts:
+        - /zanzibar
+        - /the-rest-of-tanzania
+    - name: Kenya
+      posts:
+        - /kenya
+    - name: Uganda and Rwanda
+      posts:
+        - /mostly-uganda-a-bit-of-rwanda
+
+- name: Asia and Middle East
+  countries:
+    - name: Kazakhstan
+      posts:
+        - /the-5th-world-nomad-games-astana-kazakhstan
+        - /burabay-kazakhstan
+        - /the-ring-tour-of-almaty
+        - /mangystau-salt-water-and-oil
+    - name: Jordan
+      posts:
+        - /road-tripping-around-jordan
+        - /petra-through-the-backdoor
+    - name: India
+      posts:
+        - /diwali-and-dosas-in-mumbai
+    - name: Bhutan
+      posts:
+        - /bhutan
+    - name: Hong Kong and Macau
+      posts:
+        - /hong-kong-and-macau
+    - name: Singapore
+      posts:
+        - /world-chess-championship-singapore
+
+- name: Australia
+  note: To be written
+  countries: []

@@ -10,6 +10,7 @@ google-ID: ""
 
 menu:
   - { name: "Blog", url: "index.html" }
+  - { name: "Archive", url: "archive" }
   - { name: "Roadmap", url: "roadmap.html" }
   - { name: "About", url: "about.html" }
 

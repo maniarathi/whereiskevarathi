@@ -21,6 +21,45 @@
   line-height: 1.9rem;
 }
 
+.post-nav {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem;
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.post-nav-link {
+  display: block;
+  text-decoration: none;
+}
+
+.post-nav-older {
+  text-align: right;
+}
+
+.post-nav-label {
+  display: block;
+  margin-bottom: 0.35rem;
+  font-family: $sans-serif-font-family;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: $light-gray-color;
+}
+
+.post-nav-title {
+  display: block;
+  font-size: 1.05rem;
+  line-height: 1.4;
+}
+
+.post-nav-spacer {
+  display: block;
+}
+
 @media (max-width: $elements-responsive-width) {
   .posts h1 {
     font-size: 1.5rem;
@@ -28,6 +67,18 @@
 
   .post-content {
     max-width: 100%;
+  }
+
+  .post-nav {
+    grid-template-columns: 1fr;
+  }
+
+  .post-nav-older {
+    text-align: left;
+  }
+
+  .post-nav-spacer {
+    display: none;
   }
 }
 

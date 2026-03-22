@@ -1,0 +1,71 @@
+.archive-content {
+  max-width: 820px;
+  margin: 0 auto;
+}
+
+.archive-intro {
+  margin: 0 auto 2.5rem;
+  color: $light-gray-color;
+}
+
+.archive-continent + .archive-continent {
+  margin-top: 3rem;
+}
+
+.archive-note {
+  margin: 0.3rem 0 0;
+  color: $light-gray-color;
+  font-style: italic;
+}
+
+.archive-country {
+  padding-top: 0.2rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.archive-country + .archive-country {
+  margin-top: 1rem;
+}
+
+.archive-country-summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.55rem 0;
+  cursor: pointer;
+  list-style: none;
+}
+
+.archive-country-summary::-webkit-details-marker {
+  display: none;
+}
+
+.archive-country-name {
+  font-size: 1.12rem;
+  font-weight: 700;
+}
+
+.archive-country-icon {
+  color: $light-gray-color;
+  font-size: 1.1rem;
+  line-height: 1;
+}
+
+.archive-country[open] .archive-country-icon {
+  transform: rotate(45deg);
+}
+
+.archive-posts {
+  margin: 0 0 1rem;
+  padding: 0 0 0 0.25rem;
+  list-style: none;
+}
+
+.archive-posts li + li {
+  margin-top: 0.75rem;
+}
+
+.archive-posts a {
+  text-decoration: none;
+}
