@@ -1,69 +1,185 @@
 {% if include.images %}
-<div class="image-slideshow">
-  {% for image in include.images %}
-  <div><img src="{{ image.url | relative_url }}" alt="{{ image.alt }}"></div>
-  {% endfor %}
-</div>
-
-<div class="slider-nav">
+{% assign image_count = include.images | size %}
+{% assign min_nav_items = 6 %}
+<div class="slideshow-component" data-image-count="{{ image_count }}">
+  <div class="image-slideshow">
     {% for image in include.images %}
-    <div class="thumbnail-item">
+    <div class="main-slide" data-slide-index="{{ forloop.index0 }}" data-caption="{{ image.alt | escape }}">
       <img src="{{ image.url | relative_url }}" alt="{{ image.alt }}">
     </div>
     {% endfor %}
   </div>
 
+  <figcaption class="slideshow-caption"></figcaption>
+
+  <div class="slider-nav">
+    {% if image_count < min_nav_items %}
+      {% for nav_index in (0..5) %}
+        {% assign image_index = nav_index | modulo: image_count %}
+        {% assign image = include.images[image_index] %}
+        <div class="thumbnail-item" data-slide-index="{{ image_index }}">
+          <img src="{{ image.url | relative_url }}" alt="{{ image.alt }}">
+        </div>
+      {% endfor %}
+    {% else %}
+      {% for image in include.images %}
+      <div class="thumbnail-item" data-slide-index="{{ forloop.index0 }}">
+        <img src="{{ image.url | relative_url }}" alt="{{ image.alt }}">
+      </div>
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>
+
 <script>
   $(document).ready(function(){
-    $('.image-slideshow').slick({
-      infinite: true,
-      speed: 300,
-      slidesToShow: 1,
-      adaptiveHeight: true,
-      autoplay: false,
-      autoplaySpeed: 2000,
-      fade: true,
-      asNavFor: '.slider-nav'
-    });
-    $('.slider-nav').slick({
-      slidesToShow: 3,
-      slidesToScroll: 1,
-      asNavFor: '.image-slideshow',
-      dots: false,
-      centerMode: true,
-      centerPadding: '60px',
-      focusOnSelect: true,
-      responsive: [
-        {
-          breakpoint: 768,
-          settings: {
-            slidesToShow: 3,
-            centerMode: true,
-            centerPadding: '40px',
+    $('.slideshow-component').each(function(componentIndex){
+      const $component = $(this);
+      const $mainSlider = $component.find('.image-slideshow');
+      const $navSlider = $component.find('.slider-nav');
+
+      if ($mainSlider.hasClass('slick-initialized') || $navSlider.hasClass('slick-initialized')) {
+        return;
+      }
+
+      $mainSlider.slick({
+        infinite: true,
+        speed: 300,
+        slidesToShow: 1,
+        adaptiveHeight: true,
+        autoplay: false,
+        autoplaySpeed: 2000,
+        fade: true
+      });
+
+      $navSlider.slick({
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        dots: false,
+        infinite: true,
+        centerMode: true,
+        centerPadding: '60px',
+        focusOnSelect: false,
+        responsive: [
+          {
+            breakpoint: 768,
+            settings: {
+              slidesToShow: 3,
+              centerMode: true,
+              centerPadding: '40px',
+            }
+          },
+          {
+            breakpoint: 480,
+            settings: {
+              slidesToShow: 1,
+              centerMode: true,
+              centerPadding: '40px',
+            }
           }
-        },
-        {
-          breakpoint: 480,
-          settings: {
-            slidesToShow: 1,
-            centerMode: true,
-            centerPadding: '40px',
+        ]
+      });
+
+      const $caption = $component.find('.slideshow-caption');
+
+      const setCaption = (currentSlide) => {
+        const $activeMainSlide = $mainSlider.find('.main-slide').filter(function() {
+          return Number($(this).attr('data-slide-index')) === currentSlide;
+        }).first();
+        const caption = $activeMainSlide.attr('data-caption') || '';
+
+        $caption.text(caption);
+        $caption.toggleClass('is-empty', caption.trim().length === 0);
+      };
+
+      const setActiveThumbnail = (currentSlide) => {
+        const $slides = $navSlider.find('.thumbnail-item');
+        const currentNavIndex = $navSlider.slick('slickCurrentSlide');
+        const $matchingSlides = $slides.filter(function() {
+          return Number($(this).attr('data-slide-index')) === currentSlide;
+        });
+
+        $slides.removeClass('is-active');
+
+        if ($matchingSlides.length) {
+          let $target = $matchingSlides.first();
+          let closestDistance = Number.POSITIVE_INFINITY;
+
+          $matchingSlides.each(function() {
+            const $candidate = $(this);
+            const slickIndex = Number($candidate.attr('data-slick-index'));
+
+            if (Number.isNaN(slickIndex)) {
+              return;
+            }
+
+            const distance = Math.abs(slickIndex - currentNavIndex);
+
+            if (distance < closestDistance) {
+              closestDistance = distance;
+              $target = $candidate;
+            }
+          });
+
+          $target.addClass('is-active');
+          const targetSlickIndex = Number($target.attr('data-slick-index'));
+
+          if (!Number.isNaN(targetSlickIndex)) {
+            $navSlider.slick('slickGoTo', targetSlickIndex);
           }
         }
-      ]
+      };
+
+      $navSlider.on('click', '.thumbnail-item', function() {
+        const targetSlide = Number($(this).attr('data-slide-index'));
+        $mainSlider.slick('slickGoTo', targetSlide);
+      });
+
+      $mainSlider.on('init afterChange', function(event, slick, currentSlide) {
+        const activeSlide = typeof currentSlide === 'number' ? currentSlide : 0;
+        setCaption(activeSlide);
+        setActiveThumbnail(activeSlide);
+      });
+
+      setCaption(0);
+      setActiveThumbnail(0);
     });
   });
 </script>
 
 <style>
+  .slideshow-component {
+    margin-bottom: 1.5em;
+  }
+
   .image-slideshow {
-    margin-bottom: 1.5em; /* Add some space below the slideshow */
+    margin-bottom: 1.5em;
   }
 
   .image-slideshow .slick-slide img {
     width: 100%;
     height: auto;
-    object-fit: contain; /* Adjust as needed */
+    object-fit: contain;
+  }
+
+  .slider-nav .thumbnail-item {
+    cursor: pointer;
+    opacity: 0.65;
+    transition: opacity 0.2s ease;
+  }
+
+  .slider-nav .thumbnail-item.is-active,
+  .slider-nav .thumbnail-item:hover {
+    opacity: 1;
+  }
+
+  .slideshow-caption {
+    min-height: 1.4em;
+    margin: -0.5rem auto 1rem;
+  }
+
+  .slideshow-caption.is-empty {
+    visibility: hidden;
   }
 </style>
 {% endif %}

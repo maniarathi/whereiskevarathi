@@ -73,8 +73,8 @@ a {
 
 // Images
 img {
-  max-width: 70%;
-  max-height: 90vh;
+  max-width: min(100%, 820px);
+  max-height: 68vh;
   height: auto;
   border-radius: 3px;
   display: block;
