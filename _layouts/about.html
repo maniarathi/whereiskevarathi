@@ -9,7 +9,7 @@
           {{ content }}
         </div>
         <div class="column-right">
-            <img src="{{ site.github.url }}/assets/img/about/{{ page.image }}">
+            <img src="{{ '/assets/img/about/' | append: page.image | relative_url }}">
             Us two crazy kids in Norway!
         </div>
       </div>
